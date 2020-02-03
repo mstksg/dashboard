@@ -27,7 +27,6 @@ in  [ mkPkg::{ name = "advent-of-code-api" }
     ,   mkPkg::{ name = "cv-static" }
       ⫽ { status = Status.Unpublished
         , homepage = Some { descr = "Hosted online", url = "https://cv.jle.im" }
-        , notes = Some "Source code for static online CV"
         }
     ,   mkPkg::{ name = "decidable" }
       ⫽ { support = { min = Some GHC.GHC808, max = Some GHC.GHC808 } }
@@ -45,7 +44,6 @@ in  [ mkPkg::{ name = "advent-of-code-api" }
       ⫽ { status = Status.Unpublished
         , homepage = Some
             { descr = "Hosted online", url = "https://blog.jle.im" }
-        , notes = Some "Source code for static blog"
         }
     , mkPkg::{ name = "interactive-plot" }
     , mkPkg::{ name = "jle-utils" } ⫽ { status = Status.Unpublished }

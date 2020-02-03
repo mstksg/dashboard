@@ -137,8 +137,6 @@ Haskell
 
 
 
-Source code for static online CV
-
 
 ### [decidable](https://github.com/mstksg/decidable)
 
@@ -292,8 +290,6 @@ Source code for static online CV
 [![inCode build status](https://travis-ci.org/mstksg/inCode.svg?branch=master)](https://travis-ci.org/mstksg/inCode)
 
 
-
-Source code for static blog
 
 
 ### [interactive-plot](https://github.com/mstksg/interactive-plot)

@@ -2,10 +2,10 @@ let types = ../../types.dhall
 
 in    λ(name : Text)
     →   { src =
-            ../render-shields.dhall
+            ../render/render-shields.dhall
               "hackage/v/${name}"
               (None types.ShieldsStyle)
-        , link = ../render-hackage.dhall name
+        , link = ../render/render-hackage.dhall name
         , alt = "${name} on hackage"
         }
       : types.Button

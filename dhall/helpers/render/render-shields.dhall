@@ -1,4 +1,4 @@
-let types = ../types.dhall
+let types = ../../types.dhall
 
 let renderStyle =
         λ(s : types.ShieldsStyle)

@@ -12,9 +12,7 @@ in  [ mkPkg::{ name = "advent-of-code-api" }
     , mkPkg::{ name = "advent-of-code-dev" } ⫽ { status = Status.Unpublished }
     , mkPkg::{ name = "auto" }
     ,   mkPkg::{ name = "backprop" }
-      ⫽ { homepage = Some
-            { descr = "Documentation", url = "https://backprop.jle.im" }
-        }
+      ⫽ { homepage = Some "https://backprop.jle.im" }
     ,   mkPkg::{ name = "backprop-learn" }
       ⫽ { status = Status.Incomplete
         , support = { min = Some GHC.GHC808, max = Some GHC.GHC808 }
@@ -23,9 +21,7 @@ in  [ mkPkg::{ name = "advent-of-code-api" }
     , mkPkg::{ name = "conduino" }
     , mkPkg::{ name = "configurator-export" }
     ,   mkPkg::{ name = "cv-static" }
-      ⫽ { status = Status.Unpublished
-        , homepage = Some { descr = "Hosted online", url = "https://cv.jle.im" }
-        }
+      ⫽ { status = Status.Unpublished, homepage = Some "https://cv.jle.im" }
     ,   mkPkg::{ name = "decidable" }
       ⫽ { support = { min = Some GHC.GHC808, max = Some GHC.GHC808 } }
     , mkPkg::{ name = "data-diff" } ⫽ { status = Status.Incomplete }
@@ -39,18 +35,12 @@ in  [ mkPkg::{ name = "advent-of-code-api" }
     , mkPkg::{ name = "hmatrix-backprop" }
     , mkPkg::{ name = "hmatrix-vector-sized" }
     ,   mkPkg::{ name = "inCode" }
-      ⫽ { status = Status.Unpublished
-        , homepage = Some
-            { descr = "Hosted online", url = "https://blog.jle.im" }
-        }
+      ⫽ { status = Status.Unpublished, homepage = Some "https://blog.jle.im" }
     , mkPkg::{ name = "interactive-plot" }
     , mkPkg::{ name = "jle-utils" } ⫽ { status = Status.Unpublished }
     , mkPkg::{ name = "lens-typelevel" }
     , mkPkg::{ name = "list-witnesses" }
-    ,   mkPkg::{ name = "mutable" }
-      ⫽ { homepage = Some
-            { descr = "Documentation", url = "https://mutable.jle.im" }
-        }
+    , mkPkg::{ name = "mutable" } ⫽ { homepage = Some "https://mutable.jle.im" }
     , mkPkg::{ name = "nonempty-containers" }
     , mkPkg::{ name = "one-liner-instances" }
     , mkPkg::{ name = "opto" } ⫽ { status = Status.Incomplete }

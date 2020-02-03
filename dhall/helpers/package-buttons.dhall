@@ -14,7 +14,7 @@ in    λ(p : types.HaskellPackage)
       in  text.concatMapSep
             "\n\n"
             (List types.Button)
-            (text.concatMapSep "\n" types.Button ./render-button.dhall)
+            (text.concatMapSep "\n" types.Button ./render/render-button.dhall)
             [   [ buttons.github-button gh ]
               # (       if ./on-hackage.dhall p.status
 

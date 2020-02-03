@@ -2,10 +2,10 @@ let types = ../../types.dhall
 
 in    λ(gh : { repo : Text, user : Text })
     →   { src =
-            ../render-shields.dhall
+            ../render/render-shields.dhall
               "github/stars/${gh.user}/${gh.repo}"
               (Some types.ShieldsStyle.Social)
-        , link = ../render-github.dhall gh
+        , link = ../render/render-github.dhall gh
         , alt = "${gh.repo} repository"
         }
       : types.Button

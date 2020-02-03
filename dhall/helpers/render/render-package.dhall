@@ -1,4 +1,4 @@
-let types = ../types.dhall
+let types = ../../types.dhall
 
 let text =
       https://raw.githubusercontent.com/dhall-lang/dhall-lang/v13.0.0/Prelude/Text/package.dhall sha256:0a0ad9f649aed94c2680491efb384925b5b2bb5b353f1b8a7eb134955c1ffe45
@@ -26,29 +26,25 @@ let catMaybeSep =
           (list.concatMap (Optional Text) Text (optional.toList Text) xs)
 
 in    λ(p : types.HaskellPackage)
-    → let gh = ./package-github.dhall p
+    → let gh = ../package-github.dhall p
 
       let homeUrl =
-            Optional/fold
-              types.Link
-              p.homepage
+            optional.default
               Text
-              (λ(l : types.Link) → l.url)
-              (       if ./on-hackage.dhall p.status
+              (       if ../on-hackage.dhall p.status
 
                 then  ./render-hackage.dhall p.name
 
                 else  ./render-github.dhall gh
               )
+              p.homepage
 
       in  catMaybeSep
             "\n\n"
-            [ Some "### [${p.name}](${homeUrl})"
-            , optional.map
-                types.Link
-                Text
-                (λ(u : types.Link) → "*${./render-link.dhall u}*")
-                p.homepage
+            [ Some
+                (     "### "
+                  ++  ./render-link.dhall { descr = p.name, url = homeUrl }
+                )
             , merge
                 { Incomplete = Some "*Work in Progress*"
                 , Unpublished = None Text
@@ -57,7 +53,7 @@ in    λ(p : types.HaskellPackage)
                 , Deprecated = Some "*Deprecated*"
                 }
                 p.status
-            , Some (./package-buttons.dhall p)
+            , Some (../package-buttons.dhall p)
             , Some
                 ( catMaybeSep
                     "\n"

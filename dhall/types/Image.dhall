@@ -1,0 +1,1 @@
+{ alt : Text, src : Text }

@@ -5,4 +5,5 @@
 , ShieldsStyle = ./types/ShieldsStyle.dhall
 , Status = ./types/Status.dhall
 , Link = ./types/Link.dhall
+, Image = ./types/Image.dhall
 }

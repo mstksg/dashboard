@@ -55,8 +55,6 @@ Haskell
 
 ### [backprop](https://backprop.jle.im)
 
-*[Documentation](https://backprop.jle.im)*
-
 [![backprop repository](https://img.shields.io/github/stars/mstksg/backprop?style=social)](https://github.com/mstksg/backprop)
 [![backprop on hackage](https://img.shields.io/hackage/v/backprop)](https://hackage.haskell.org/package/backprop)
 [![backprop on stackage lts](https://stackage.org/package/backprop/badge/lts)](https://stackage.org/lts/package/backprop)
@@ -126,8 +124,6 @@ Haskell
 
 
 ### [cv-static](https://cv.jle.im)
-
-*[Hosted online](https://cv.jle.im)*
 
 [![cv-static repository](https://img.shields.io/github/stars/mstksg/cv-static?style=social)](https://github.com/mstksg/cv-static)
 
@@ -281,8 +277,6 @@ Haskell
 
 ### [inCode](https://blog.jle.im)
 
-*[Hosted online](https://blog.jle.im)*
-
 [![inCode repository](https://img.shields.io/github/stars/mstksg/inCode?style=social)](https://github.com/mstksg/inCode)
 
 [![inCode issue tracker](https://img.shields.io/github/issues/mstksg/inCode)](https://github.com/mstksg/inCode/issues)
@@ -346,8 +340,6 @@ Haskell
 
 
 ### [mutable](https://mutable.jle.im)
-
-*[Documentation](https://mutable.jle.im)*
 
 [![mutable repository](https://img.shields.io/github/stars/mstksg/mutable?style=social)](https://github.com/mstksg/mutable)
 [![mutable on hackage](https://img.shields.io/hackage/v/mutable)](https://hackage.haskell.org/package/mutable)

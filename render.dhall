@@ -9,7 +9,7 @@ let haskellProjects =
       text.concatMapSep
         "\n\n\n"
         types.HaskellPackage
-        helpers.render-package
+        helpers.render.render-package
         ./content/haskell-packages.dhall
 
 in  ''

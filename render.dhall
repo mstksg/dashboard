@@ -21,6 +21,13 @@ in  ''
     A dashboard of my OSS projects and their statuses.  Mostly for my own
     self-reference.
 
+    Rendered using [dhall](http://dhall-lang.org/):
+
+    ```
+    dhall text --file render.dhall > README.md
+    ```
+
+
     Haskell
     -------
 

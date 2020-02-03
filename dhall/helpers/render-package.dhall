@@ -18,34 +18,47 @@ let renderSupport =
           (λ(u : types.GHCVersion) → "* ${t}: ${./render-ghcversion.dhall u}")
           v
 
+let catMaybeSep =
+        λ(sep : Text)
+      → λ(xs : List (Optional Text))
+      → text.concatSep
+          sep
+          (list.concatMap (Optional Text) Text (optional.toList Text) xs)
+
 in    λ(p : types.HaskellPackage)
     → let gh = ./package-github.dhall p
 
-      let homeUrl = optional.default Text (./render-github.dhall gh) p.homepage
+      let homeUrl =
+            Optional/fold
+              types.Link
+              p.homepage
+              Text
+              (λ(l : types.Link) → l.url)
+              (./render-github.dhall gh)
 
-      in  text.concatSep
+      in  catMaybeSep
             "\n\n"
-            ( list.concatMap
-                (Optional Text)
+            [ Some "### [${p.name}](${homeUrl})"
+            , optional.map
+                types.Link
                 Text
-                (optional.toList Text)
-                [ Some "### [${p.name}](${homeUrl})"
-                , merge
-                    { Incomplete = Some "*Work in Progress*"
-                    , Unpublished = None Text
-                    , Published = None Text
-                    , Unmaintained = Some "*Currently Unmaintained*"
-                    , Deprecated = Some "*Deprecated*"
-                    }
-                    p.status
-                , Some (./package-buttons.dhall p)
-                , optional.map
-                    Text
-                    Text
-                    (λ(u : Text) → "*[Documentation/Homepage](${u})*")
-                    p.homepage
-                , renderSupport "Minimum support" p.support.min
-                , renderSupport "Maximum support" p.support.max
-                , p.notes
-                ]
-            )
+                (λ(u : types.Link) → "*${./render-link.dhall u}*")
+                p.homepage
+            , merge
+                { Incomplete = Some "*Work in Progress*"
+                , Unpublished = None Text
+                , Published = None Text
+                , Unmaintained = Some "*Currently Unmaintained*"
+                , Deprecated = Some "*Deprecated*"
+                }
+                p.status
+            , Some (./package-buttons.dhall p)
+            , Some
+                ( catMaybeSep
+                    "\n"
+                    [ renderSupport "Minimum support" p.support.min
+                    , renderSupport "Maximum support" p.support.max
+                    ]
+                )
+            , p.notes
+            ]

@@ -14,7 +14,9 @@ in  [ mkPkg::{ name = "advent-of-code-api" }
     , mkPkg::{ name = "advent-of-code-dev" } ⫽ { status = Status.Unpublished }
     , mkPkg::{ name = "auto" }
     ,   mkPkg::{ name = "backprop" }
-      ⫽ { homepage = Some "https://backprop.jle.im" }
+      ⫽ { homepage = Some
+            { descr = "Documentation", url = "https://backprop.jle.im" }
+        }
     ,   mkPkg::{ name = "backprop-learn" }
       ⫽ { status = Status.Incomplete
         , support = { min = Some GHC.GHC808, max = Some GHC.GHC808 }
@@ -24,7 +26,7 @@ in  [ mkPkg::{ name = "advent-of-code-api" }
     , mkPkg::{ name = "configurator-export" }
     ,   mkPkg::{ name = "cv-static" }
       ⫽ { status = Status.Unpublished
-        , homepage = Some "https://cv.jle.im"
+        , homepage = Some { descr = "Hosted online", url = "https://cv.jle.im" }
         , notes = Some "Source code for static online CV"
         }
     ,   mkPkg::{ name = "decidable" }
@@ -41,14 +43,18 @@ in  [ mkPkg::{ name = "advent-of-code-api" }
     , mkPkg::{ name = "hmatrix-vector-sized" }
     ,   mkPkg::{ name = "inCode" }
       ⫽ { status = Status.Unpublished
-        , homepage = Some "https://blog.jle.im"
+        , homepage = Some
+            { descr = "Hosted online", url = "https://blog.jle.im" }
         , notes = Some "Source code for static blog"
         }
     , mkPkg::{ name = "interactive-plot" }
     , mkPkg::{ name = "jle-utils" } ⫽ { status = Status.Unpublished }
     , mkPkg::{ name = "lens-typelevel" }
     , mkPkg::{ name = "list-witnesses" }
-    , mkPkg::{ name = "mutable" } ⫽ { homepage = Some "https://mutable.jle.im" }
+    ,   mkPkg::{ name = "mutable" }
+      ⫽ { homepage = Some
+            { descr = "Documentation", url = "https://mutable.jle.im" }
+        }
     , mkPkg::{ name = "nonempty-containers" }
     , mkPkg::{ name = "one-liner-instances" }
     , mkPkg::{ name = "opto" } ⫽ { status = Status.Incomplete }

@@ -3,6 +3,7 @@
 , render-package = ./render-package.dhall
 , render-github = ./render-github.dhall
 , render-shields = ./render-shields.dhall
+, render-link = ./render-link.dhall
 , render-ghcversion = ./render-ghcversion.dhall
 , package-buttons = ./package-buttons.dhall
 , package-github = ./package-github.dhall

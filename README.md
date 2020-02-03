@@ -26,6 +26,8 @@ Haskell
 [![advent-of-code-api build status](https://travis-ci.org/mstksg/advent-of-code-api.svg?branch=master)](https://travis-ci.org/mstksg/advent-of-code-api)
 
 
+
+
 ### [advent-of-code-dev](https://github.com/mstksg/advent-of-code-dev)
 
 [![advent-of-code-dev repository](https://img.shields.io/github/stars/mstksg/advent-of-code-dev?style=social)](https://github.com/mstksg/advent-of-code-dev)
@@ -33,6 +35,8 @@ Haskell
 [![advent-of-code-dev issue tracker](https://img.shields.io/github/issues/mstksg/advent-of-code-dev)](https://github.com/mstksg/advent-of-code-dev/issues)
 [![advent-of-code-dev pull requests](https://img.shields.io/github/issues-pr/mstksg/advent-of-code-dev)](https://github.com/mstksg/advent-of-code-dev/pulls)
 [![advent-of-code-dev build status](https://travis-ci.org/mstksg/advent-of-code-dev.svg?branch=master)](https://travis-ci.org/mstksg/advent-of-code-dev)
+
+
 
 
 ### [auto](https://github.com/mstksg/auto)
@@ -47,7 +51,11 @@ Haskell
 [![auto build status](https://travis-ci.org/mstksg/auto.svg?branch=master)](https://travis-ci.org/mstksg/auto)
 
 
+
+
 ### [backprop](https://backprop.jle.im)
+
+*[https://backprop.jle.im](Documentation)*
 
 [![backprop repository](https://img.shields.io/github/stars/mstksg/backprop?style=social)](https://github.com/mstksg/backprop)
 [![backprop on hackage](https://img.shields.io/hackage/v/backprop)](https://hackage.haskell.org/package/backprop)
@@ -58,7 +66,7 @@ Haskell
 [![backprop pull requests](https://img.shields.io/github/issues-pr/mstksg/backprop)](https://github.com/mstksg/backprop/pulls)
 [![backprop build status](https://travis-ci.org/mstksg/backprop.svg?branch=master)](https://travis-ci.org/mstksg/backprop)
 
-*[Documentation/Homepage](https://backprop.jle.im)*
+
 
 
 ### [backprop-learn](https://github.com/mstksg/backprop-learn)
@@ -72,7 +80,6 @@ Haskell
 [![backprop-learn build status](https://travis-ci.org/mstksg/backprop-learn.svg?branch=master)](https://travis-ci.org/mstksg/backprop-learn)
 
 * Minimum support: GHC 8.8
-
 * Maximum support: GHC 8.8
 
 
@@ -88,6 +95,8 @@ Haskell
 [![bins build status](https://travis-ci.org/mstksg/bins.svg?branch=master)](https://travis-ci.org/mstksg/bins)
 
 
+
+
 ### [conduino](https://github.com/mstksg/conduino)
 
 [![conduino repository](https://img.shields.io/github/stars/mstksg/conduino?style=social)](https://github.com/mstksg/conduino)
@@ -98,6 +107,8 @@ Haskell
 [![conduino issue tracker](https://img.shields.io/github/issues/mstksg/conduino)](https://github.com/mstksg/conduino/issues)
 [![conduino pull requests](https://img.shields.io/github/issues-pr/mstksg/conduino)](https://github.com/mstksg/conduino/pulls)
 [![conduino build status](https://travis-ci.org/mstksg/conduino.svg?branch=master)](https://travis-ci.org/mstksg/conduino)
+
+
 
 
 ### [configurator-export](https://github.com/mstksg/configurator-export)
@@ -112,7 +123,11 @@ Haskell
 [![configurator-export build status](https://travis-ci.org/mstksg/configurator-export.svg?branch=master)](https://travis-ci.org/mstksg/configurator-export)
 
 
+
+
 ### [cv-static](https://cv.jle.im)
+
+*[https://cv.jle.im](Hosted online)*
 
 [![cv-static repository](https://img.shields.io/github/stars/mstksg/cv-static?style=social)](https://github.com/mstksg/cv-static)
 
@@ -120,7 +135,7 @@ Haskell
 [![cv-static pull requests](https://img.shields.io/github/issues-pr/mstksg/cv-static)](https://github.com/mstksg/cv-static/pulls)
 [![cv-static build status](https://travis-ci.org/mstksg/cv-static.svg?branch=master)](https://travis-ci.org/mstksg/cv-static)
 
-*[Documentation/Homepage](https://cv.jle.im)*
+
 
 Source code for static online CV
 
@@ -137,7 +152,6 @@ Source code for static online CV
 [![decidable build status](https://travis-ci.org/mstksg/decidable.svg?branch=master)](https://travis-ci.org/mstksg/decidable)
 
 * Minimum support: GHC 8.8
-
 * Maximum support: GHC 8.8
 
 
@@ -152,6 +166,8 @@ Source code for static online CV
 [![data-diff build status](https://travis-ci.org/mstksg/data-diff.svg?branch=master)](https://travis-ci.org/mstksg/data-diff)
 
 
+
+
 ### [emd](https://github.com/mstksg/emd)
 
 [![emd repository](https://img.shields.io/github/stars/mstksg/emd?style=social)](https://github.com/mstksg/emd)
@@ -162,6 +178,8 @@ Source code for static online CV
 [![emd issue tracker](https://img.shields.io/github/issues/mstksg/emd)](https://github.com/mstksg/emd/issues)
 [![emd pull requests](https://img.shields.io/github/issues-pr/mstksg/emd)](https://github.com/mstksg/emd/pulls)
 [![emd build status](https://travis-ci.org/mstksg/emd.svg?branch=master)](https://travis-ci.org/mstksg/emd)
+
+
 
 
 ### [functor-combinators](https://github.com/mstksg/functor-combinators)
@@ -176,6 +194,8 @@ Source code for static online CV
 [![functor-combinators build status](https://travis-ci.org/mstksg/functor-combinators.svg?branch=master)](https://travis-ci.org/mstksg/functor-combinators)
 
 
+
+
 ### [functor-products](https://github.com/mstksg/functor-products)
 
 [![functor-products repository](https://img.shields.io/github/stars/mstksg/functor-products?style=social)](https://github.com/mstksg/functor-products)
@@ -188,7 +208,6 @@ Source code for static online CV
 [![functor-products build status](https://travis-ci.org/mstksg/functor-products.svg?branch=master)](https://travis-ci.org/mstksg/functor-products)
 
 * Minimum support: GHC 8.8
-
 * Maximum support: GHC 8.8
 
 
@@ -204,6 +223,8 @@ Source code for static online CV
 [![ghcjs-websockets build status](https://travis-ci.org/mstksg/ghcjs-websockets.svg?branch=master)](https://travis-ci.org/mstksg/ghcjs-websockets)
 
 
+
+
 ### [hakyll-dhall](https://github.com/mstksg/hakyll-dhall)
 
 [![hakyll-dhall repository](https://img.shields.io/github/stars/mstksg/hakyll-dhall?style=social)](https://github.com/mstksg/hakyll-dhall)
@@ -214,6 +235,8 @@ Source code for static online CV
 [![hakyll-dhall issue tracker](https://img.shields.io/github/issues/mstksg/hakyll-dhall)](https://github.com/mstksg/hakyll-dhall/issues)
 [![hakyll-dhall pull requests](https://img.shields.io/github/issues-pr/mstksg/hakyll-dhall)](https://github.com/mstksg/hakyll-dhall/pulls)
 [![hakyll-dhall build status](https://travis-ci.org/mstksg/hakyll-dhall.svg?branch=master)](https://travis-ci.org/mstksg/hakyll-dhall)
+
+
 
 
 ### [hamilton](https://github.com/mstksg/hamilton)
@@ -228,6 +251,8 @@ Source code for static online CV
 [![hamilton build status](https://travis-ci.org/mstksg/hamilton.svg?branch=master)](https://travis-ci.org/mstksg/hamilton)
 
 
+
+
 ### [hmatrix-backprop](https://github.com/mstksg/hmatrix-backprop)
 
 [![hmatrix-backprop repository](https://img.shields.io/github/stars/mstksg/hmatrix-backprop?style=social)](https://github.com/mstksg/hmatrix-backprop)
@@ -238,6 +263,8 @@ Source code for static online CV
 [![hmatrix-backprop issue tracker](https://img.shields.io/github/issues/mstksg/hmatrix-backprop)](https://github.com/mstksg/hmatrix-backprop/issues)
 [![hmatrix-backprop pull requests](https://img.shields.io/github/issues-pr/mstksg/hmatrix-backprop)](https://github.com/mstksg/hmatrix-backprop/pulls)
 [![hmatrix-backprop build status](https://travis-ci.org/mstksg/hmatrix-backprop.svg?branch=master)](https://travis-ci.org/mstksg/hmatrix-backprop)
+
+
 
 
 ### [hmatrix-vector-sized](https://github.com/mstksg/hmatrix-vector-sized)
@@ -252,7 +279,11 @@ Source code for static online CV
 [![hmatrix-vector-sized build status](https://travis-ci.org/mstksg/hmatrix-vector-sized.svg?branch=master)](https://travis-ci.org/mstksg/hmatrix-vector-sized)
 
 
+
+
 ### [inCode](https://blog.jle.im)
+
+*[https://blog.jle.im](Hosted online)*
 
 [![inCode repository](https://img.shields.io/github/stars/mstksg/inCode?style=social)](https://github.com/mstksg/inCode)
 
@@ -260,7 +291,7 @@ Source code for static online CV
 [![inCode pull requests](https://img.shields.io/github/issues-pr/mstksg/inCode)](https://github.com/mstksg/inCode/pulls)
 [![inCode build status](https://travis-ci.org/mstksg/inCode.svg?branch=master)](https://travis-ci.org/mstksg/inCode)
 
-*[Documentation/Homepage](https://blog.jle.im)*
+
 
 Source code for static blog
 
@@ -277,6 +308,8 @@ Source code for static blog
 [![interactive-plot build status](https://travis-ci.org/mstksg/interactive-plot.svg?branch=master)](https://travis-ci.org/mstksg/interactive-plot)
 
 
+
+
 ### [jle-utils](https://github.com/mstksg/jle-utils)
 
 [![jle-utils repository](https://img.shields.io/github/stars/mstksg/jle-utils?style=social)](https://github.com/mstksg/jle-utils)
@@ -284,6 +317,8 @@ Source code for static blog
 [![jle-utils issue tracker](https://img.shields.io/github/issues/mstksg/jle-utils)](https://github.com/mstksg/jle-utils/issues)
 [![jle-utils pull requests](https://img.shields.io/github/issues-pr/mstksg/jle-utils)](https://github.com/mstksg/jle-utils/pulls)
 [![jle-utils build status](https://travis-ci.org/mstksg/jle-utils.svg?branch=master)](https://travis-ci.org/mstksg/jle-utils)
+
+
 
 
 ### [lens-typelevel](https://github.com/mstksg/lens-typelevel)
@@ -298,6 +333,8 @@ Source code for static blog
 [![lens-typelevel build status](https://travis-ci.org/mstksg/lens-typelevel.svg?branch=master)](https://travis-ci.org/mstksg/lens-typelevel)
 
 
+
+
 ### [list-witnesses](https://github.com/mstksg/list-witnesses)
 
 [![list-witnesses repository](https://img.shields.io/github/stars/mstksg/list-witnesses?style=social)](https://github.com/mstksg/list-witnesses)
@@ -310,7 +347,11 @@ Source code for static blog
 [![list-witnesses build status](https://travis-ci.org/mstksg/list-witnesses.svg?branch=master)](https://travis-ci.org/mstksg/list-witnesses)
 
 
+
+
 ### [mutable](https://mutable.jle.im)
+
+*[https://mutable.jle.im](Documentation)*
 
 [![mutable repository](https://img.shields.io/github/stars/mstksg/mutable?style=social)](https://github.com/mstksg/mutable)
 [![mutable on hackage](https://img.shields.io/hackage/v/mutable)](https://hackage.haskell.org/package/mutable)
@@ -321,7 +362,7 @@ Source code for static blog
 [![mutable pull requests](https://img.shields.io/github/issues-pr/mstksg/mutable)](https://github.com/mstksg/mutable/pulls)
 [![mutable build status](https://travis-ci.org/mstksg/mutable.svg?branch=master)](https://travis-ci.org/mstksg/mutable)
 
-*[Documentation/Homepage](https://mutable.jle.im)*
+
 
 
 ### [nonempty-containers](https://github.com/mstksg/nonempty-containers)
@@ -336,6 +377,8 @@ Source code for static blog
 [![nonempty-containers build status](https://travis-ci.org/mstksg/nonempty-containers.svg?branch=master)](https://travis-ci.org/mstksg/nonempty-containers)
 
 
+
+
 ### [one-liner-instances](https://github.com/mstksg/one-liner-instances)
 
 [![one-liner-instances repository](https://img.shields.io/github/stars/mstksg/one-liner-instances?style=social)](https://github.com/mstksg/one-liner-instances)
@@ -348,6 +391,8 @@ Source code for static blog
 [![one-liner-instances build status](https://travis-ci.org/mstksg/one-liner-instances.svg?branch=master)](https://travis-ci.org/mstksg/one-liner-instances)
 
 
+
+
 ### [opto](https://github.com/mstksg/opto)
 
 *Work in Progress*
@@ -357,6 +402,8 @@ Source code for static blog
 [![opto issue tracker](https://img.shields.io/github/issues/mstksg/opto)](https://github.com/mstksg/opto/issues)
 [![opto pull requests](https://img.shields.io/github/issues-pr/mstksg/opto)](https://github.com/mstksg/opto/pulls)
 [![opto build status](https://travis-ci.org/mstksg/opto.svg?branch=master)](https://travis-ci.org/mstksg/opto)
+
+
 
 
 ### [otp-authenticator](https://github.com/mstksg/otp-authenticator)
@@ -371,6 +418,8 @@ Source code for static blog
 [![otp-authenticator build status](https://travis-ci.org/mstksg/otp-authenticator.svg?branch=master)](https://travis-ci.org/mstksg/otp-authenticator)
 
 
+
+
 ### [prompt](https://github.com/mstksg/prompt)
 
 [![prompt repository](https://img.shields.io/github/stars/mstksg/prompt?style=social)](https://github.com/mstksg/prompt)
@@ -383,6 +432,8 @@ Source code for static blog
 [![prompt build status](https://travis-ci.org/mstksg/prompt.svg?branch=master)](https://travis-ci.org/mstksg/prompt)
 
 
+
+
 ### [pandoc-sync](https://github.com/mstksg/pandoc-sync)
 
 *Work in Progress*
@@ -392,6 +443,8 @@ Source code for static blog
 [![pandoc-sync issue tracker](https://img.shields.io/github/issues/mstksg/pandoc-sync)](https://github.com/mstksg/pandoc-sync/issues)
 [![pandoc-sync pull requests](https://img.shields.io/github/issues-pr/mstksg/pandoc-sync)](https://github.com/mstksg/pandoc-sync/pulls)
 [![pandoc-sync build status](https://travis-ci.org/mstksg/pandoc-sync.svg?branch=master)](https://travis-ci.org/mstksg/pandoc-sync)
+
+
 
 
 ### [servant-cli](https://github.com/mstksg/servant-cli)
@@ -406,6 +459,8 @@ Source code for static blog
 [![servant-cli build status](https://travis-ci.org/mstksg/servant-cli.svg?branch=master)](https://travis-ci.org/mstksg/servant-cli)
 
 
+
+
 ### [santabot](https://github.com/mstksg/santabot)
 
 [![santabot repository](https://img.shields.io/github/stars/mstksg/santabot?style=social)](https://github.com/mstksg/santabot)
@@ -413,6 +468,8 @@ Source code for static blog
 [![santabot issue tracker](https://img.shields.io/github/issues/mstksg/santabot)](https://github.com/mstksg/santabot/issues)
 [![santabot pull requests](https://img.shields.io/github/issues-pr/mstksg/santabot)](https://github.com/mstksg/santabot/pulls)
 [![santabot build status](https://travis-ci.org/mstksg/santabot.svg?branch=master)](https://travis-ci.org/mstksg/santabot)
+
+
 
 
 ### [tagged-binary](https://github.com/mstksg/tagged-binary)
@@ -425,6 +482,8 @@ Source code for static blog
 [![tagged-binary issue tracker](https://img.shields.io/github/issues/mstksg/tagged-binary)](https://github.com/mstksg/tagged-binary/issues)
 [![tagged-binary pull requests](https://img.shields.io/github/issues-pr/mstksg/tagged-binary)](https://github.com/mstksg/tagged-binary/pulls)
 [![tagged-binary build status](https://travis-ci.org/mstksg/tagged-binary.svg?branch=master)](https://travis-ci.org/mstksg/tagged-binary)
+
+
 
 
 ### [type-combinators-singletons](https://github.com/mstksg/type-combinators-singletons)
@@ -441,6 +500,8 @@ Source code for static blog
 [![type-combinators-singletons build status](https://travis-ci.org/mstksg/type-combinators-singletons.svg?branch=master)](https://travis-ci.org/mstksg/type-combinators-singletons)
 
 
+
+
 ### [typelits-witnesses](https://github.com/mstksg/typelits-witnesses)
 
 [![typelits-witnesses repository](https://img.shields.io/github/stars/mstksg/typelits-witnesses?style=social)](https://github.com/mstksg/typelits-witnesses)
@@ -453,6 +514,8 @@ Source code for static blog
 [![typelits-witnesses build status](https://travis-ci.org/mstksg/typelits-witnesses.svg?branch=master)](https://travis-ci.org/mstksg/typelits-witnesses)
 
 
+
+
 ### [typelits-printf](https://github.com/mstksg/typelits-printf)
 
 [![typelits-printf repository](https://img.shields.io/github/stars/mstksg/typelits-printf?style=social)](https://github.com/mstksg/typelits-printf)
@@ -460,6 +523,8 @@ Source code for static blog
 [![typelits-printf issue tracker](https://img.shields.io/github/issues/mstksg/typelits-printf)](https://github.com/mstksg/typelits-printf/issues)
 [![typelits-printf pull requests](https://img.shields.io/github/issues-pr/mstksg/typelits-printf)](https://github.com/mstksg/typelits-printf/pulls)
 [![typelits-printf build status](https://travis-ci.org/mstksg/typelits-printf.svg?branch=master)](https://travis-ci.org/mstksg/typelits-printf)
+
+
 
 Awaiting upload of patch VinylRecords/Vinyl#131 to hackage
 
@@ -476,6 +541,8 @@ Awaiting upload of patch VinylRecords/Vinyl#131 to hackage
 [![uncertain build status](https://travis-ci.org/mstksg/uncertain.svg?branch=master)](https://travis-ci.org/mstksg/uncertain)
 
 
+
+
 ### [wavelets](https://github.com/mstksg/wavelets)
 
 *Work in Progress*
@@ -485,5 +552,7 @@ Awaiting upload of patch VinylRecords/Vinyl#131 to hackage
 [![wavelets issue tracker](https://img.shields.io/github/issues/mstksg/wavelets)](https://github.com/mstksg/wavelets/issues)
 [![wavelets pull requests](https://img.shields.io/github/issues-pr/mstksg/wavelets)](https://github.com/mstksg/wavelets/pulls)
 [![wavelets build status](https://travis-ci.org/mstksg/wavelets.svg?branch=master)](https://travis-ci.org/mstksg/wavelets)
+
+
 
 

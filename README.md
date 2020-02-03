@@ -16,7 +16,7 @@ Haskell
 
 ### [advent-of-code-api](https://hackage.haskell.org/package/advent-of-code-api)
 
-[![advent-of-code-api repository](https://img.shields.io/github/stars/mstksg/advent-of-code-api?style=social?maxAge=86400)](https://github.com/mstksg/advent-of-code-api)
+[![advent-of-code-api repository](https://img.shields.io/github/stars/mstksg/advent-of-code-api?maxAge=86400&style=social)](https://github.com/mstksg/advent-of-code-api)
 [![advent-of-code-api on hackage](https://img.shields.io/hackage/v/advent-of-code-api?maxAge=86400)](https://hackage.haskell.org/package/advent-of-code-api)
 [![advent-of-code-api on stackage lts](https://stackage.org/package/advent-of-code-api/badge/lts)](https://stackage.org/lts/package/advent-of-code-api)
 [![advent-of-code-api on stackage nightly](https://stackage.org/package/advent-of-code-api/badge/nightly)](https://stackage.org/nightly/package/advent-of-code-api)
@@ -30,7 +30,7 @@ Haskell
 
 ### [advent-of-code-dev](https://github.com/mstksg/advent-of-code-dev)
 
-[![advent-of-code-dev repository](https://img.shields.io/github/stars/mstksg/advent-of-code-dev?style=social?maxAge=86400)](https://github.com/mstksg/advent-of-code-dev)
+[![advent-of-code-dev repository](https://img.shields.io/github/stars/mstksg/advent-of-code-dev?maxAge=86400&style=social)](https://github.com/mstksg/advent-of-code-dev)
 
 [![advent-of-code-dev issue tracker](https://img.shields.io/github/issues/mstksg/advent-of-code-dev?maxAge=86400)](https://github.com/mstksg/advent-of-code-dev/issues)
 [![advent-of-code-dev pull requests](https://img.shields.io/github/issues-pr/mstksg/advent-of-code-dev?maxAge=86400)](https://github.com/mstksg/advent-of-code-dev/pulls)
@@ -41,7 +41,7 @@ Haskell
 
 ### [auto](https://hackage.haskell.org/package/auto)
 
-[![auto repository](https://img.shields.io/github/stars/mstksg/auto?style=social?maxAge=86400)](https://github.com/mstksg/auto)
+[![auto repository](https://img.shields.io/github/stars/mstksg/auto?maxAge=86400&style=social)](https://github.com/mstksg/auto)
 [![auto on hackage](https://img.shields.io/hackage/v/auto?maxAge=86400)](https://hackage.haskell.org/package/auto)
 [![auto on stackage lts](https://stackage.org/package/auto/badge/lts)](https://stackage.org/lts/package/auto)
 [![auto on stackage nightly](https://stackage.org/package/auto/badge/nightly)](https://stackage.org/nightly/package/auto)
@@ -55,7 +55,7 @@ Haskell
 
 ### [backprop](https://backprop.jle.im)
 
-[![backprop repository](https://img.shields.io/github/stars/mstksg/backprop?style=social?maxAge=86400)](https://github.com/mstksg/backprop)
+[![backprop repository](https://img.shields.io/github/stars/mstksg/backprop?maxAge=86400&style=social)](https://github.com/mstksg/backprop)
 [![backprop on hackage](https://img.shields.io/hackage/v/backprop?maxAge=86400)](https://hackage.haskell.org/package/backprop)
 [![backprop on stackage lts](https://stackage.org/package/backprop/badge/lts)](https://stackage.org/lts/package/backprop)
 [![backprop on stackage nightly](https://stackage.org/package/backprop/badge/nightly)](https://stackage.org/nightly/package/backprop)
@@ -71,7 +71,7 @@ Haskell
 
 *Work in Progress*
 
-[![backprop-learn repository](https://img.shields.io/github/stars/mstksg/backprop-learn?style=social?maxAge=86400)](https://github.com/mstksg/backprop-learn)
+[![backprop-learn repository](https://img.shields.io/github/stars/mstksg/backprop-learn?maxAge=86400&style=social)](https://github.com/mstksg/backprop-learn)
 
 [![backprop-learn issue tracker](https://img.shields.io/github/issues/mstksg/backprop-learn?maxAge=86400)](https://github.com/mstksg/backprop-learn/issues)
 [![backprop-learn pull requests](https://img.shields.io/github/issues-pr/mstksg/backprop-learn?maxAge=86400)](https://github.com/mstksg/backprop-learn/pulls)
@@ -83,7 +83,7 @@ Haskell
 
 ### [bins](https://hackage.haskell.org/package/bins)
 
-[![bins repository](https://img.shields.io/github/stars/mstksg/bins?style=social?maxAge=86400)](https://github.com/mstksg/bins)
+[![bins repository](https://img.shields.io/github/stars/mstksg/bins?maxAge=86400&style=social)](https://github.com/mstksg/bins)
 [![bins on hackage](https://img.shields.io/hackage/v/bins?maxAge=86400)](https://hackage.haskell.org/package/bins)
 [![bins on stackage lts](https://stackage.org/package/bins/badge/lts)](https://stackage.org/lts/package/bins)
 [![bins on stackage nightly](https://stackage.org/package/bins/badge/nightly)](https://stackage.org/nightly/package/bins)
@@ -97,7 +97,7 @@ Haskell
 
 ### [conduino](https://hackage.haskell.org/package/conduino)
 
-[![conduino repository](https://img.shields.io/github/stars/mstksg/conduino?style=social?maxAge=86400)](https://github.com/mstksg/conduino)
+[![conduino repository](https://img.shields.io/github/stars/mstksg/conduino?maxAge=86400&style=social)](https://github.com/mstksg/conduino)
 [![conduino on hackage](https://img.shields.io/hackage/v/conduino?maxAge=86400)](https://hackage.haskell.org/package/conduino)
 [![conduino on stackage lts](https://stackage.org/package/conduino/badge/lts)](https://stackage.org/lts/package/conduino)
 [![conduino on stackage nightly](https://stackage.org/package/conduino/badge/nightly)](https://stackage.org/nightly/package/conduino)
@@ -111,7 +111,7 @@ Haskell
 
 ### [configurator-export](https://hackage.haskell.org/package/configurator-export)
 
-[![configurator-export repository](https://img.shields.io/github/stars/mstksg/configurator-export?style=social?maxAge=86400)](https://github.com/mstksg/configurator-export)
+[![configurator-export repository](https://img.shields.io/github/stars/mstksg/configurator-export?maxAge=86400&style=social)](https://github.com/mstksg/configurator-export)
 [![configurator-export on hackage](https://img.shields.io/hackage/v/configurator-export?maxAge=86400)](https://hackage.haskell.org/package/configurator-export)
 [![configurator-export on stackage lts](https://stackage.org/package/configurator-export/badge/lts)](https://stackage.org/lts/package/configurator-export)
 [![configurator-export on stackage nightly](https://stackage.org/package/configurator-export/badge/nightly)](https://stackage.org/nightly/package/configurator-export)
@@ -125,7 +125,7 @@ Haskell
 
 ### [cv-static](https://cv.jle.im)
 
-[![cv-static repository](https://img.shields.io/github/stars/mstksg/cv-static?style=social?maxAge=86400)](https://github.com/mstksg/cv-static)
+[![cv-static repository](https://img.shields.io/github/stars/mstksg/cv-static?maxAge=86400&style=social)](https://github.com/mstksg/cv-static)
 
 [![cv-static issue tracker](https://img.shields.io/github/issues/mstksg/cv-static?maxAge=86400)](https://github.com/mstksg/cv-static/issues)
 [![cv-static pull requests](https://img.shields.io/github/issues-pr/mstksg/cv-static?maxAge=86400)](https://github.com/mstksg/cv-static/pulls)
@@ -136,7 +136,7 @@ Haskell
 
 ### [decidable](https://hackage.haskell.org/package/decidable)
 
-[![decidable repository](https://img.shields.io/github/stars/mstksg/decidable?style=social?maxAge=86400)](https://github.com/mstksg/decidable)
+[![decidable repository](https://img.shields.io/github/stars/mstksg/decidable?maxAge=86400&style=social)](https://github.com/mstksg/decidable)
 [![decidable on hackage](https://img.shields.io/hackage/v/decidable?maxAge=86400)](https://hackage.haskell.org/package/decidable)
 [![decidable on stackage lts](https://stackage.org/package/decidable/badge/lts)](https://stackage.org/lts/package/decidable)
 [![decidable on stackage nightly](https://stackage.org/package/decidable/badge/nightly)](https://stackage.org/nightly/package/decidable)
@@ -153,7 +153,7 @@ Haskell
 
 *Work in Progress*
 
-[![data-diff repository](https://img.shields.io/github/stars/mstksg/data-diff?style=social?maxAge=86400)](https://github.com/mstksg/data-diff)
+[![data-diff repository](https://img.shields.io/github/stars/mstksg/data-diff?maxAge=86400&style=social)](https://github.com/mstksg/data-diff)
 
 [![data-diff issue tracker](https://img.shields.io/github/issues/mstksg/data-diff?maxAge=86400)](https://github.com/mstksg/data-diff/issues)
 [![data-diff pull requests](https://img.shields.io/github/issues-pr/mstksg/data-diff?maxAge=86400)](https://github.com/mstksg/data-diff/pulls)
@@ -164,7 +164,7 @@ Haskell
 
 ### [emd](https://hackage.haskell.org/package/emd)
 
-[![emd repository](https://img.shields.io/github/stars/mstksg/emd?style=social?maxAge=86400)](https://github.com/mstksg/emd)
+[![emd repository](https://img.shields.io/github/stars/mstksg/emd?maxAge=86400&style=social)](https://github.com/mstksg/emd)
 [![emd on hackage](https://img.shields.io/hackage/v/emd?maxAge=86400)](https://hackage.haskell.org/package/emd)
 [![emd on stackage lts](https://stackage.org/package/emd/badge/lts)](https://stackage.org/lts/package/emd)
 [![emd on stackage nightly](https://stackage.org/package/emd/badge/nightly)](https://stackage.org/nightly/package/emd)
@@ -178,7 +178,7 @@ Haskell
 
 ### [functor-combinators](https://hackage.haskell.org/package/functor-combinators)
 
-[![functor-combinators repository](https://img.shields.io/github/stars/mstksg/functor-combinators?style=social?maxAge=86400)](https://github.com/mstksg/functor-combinators)
+[![functor-combinators repository](https://img.shields.io/github/stars/mstksg/functor-combinators?maxAge=86400&style=social)](https://github.com/mstksg/functor-combinators)
 [![functor-combinators on hackage](https://img.shields.io/hackage/v/functor-combinators?maxAge=86400)](https://hackage.haskell.org/package/functor-combinators)
 [![functor-combinators on stackage lts](https://stackage.org/package/functor-combinators/badge/lts)](https://stackage.org/lts/package/functor-combinators)
 [![functor-combinators on stackage nightly](https://stackage.org/package/functor-combinators/badge/nightly)](https://stackage.org/nightly/package/functor-combinators)
@@ -192,7 +192,7 @@ Haskell
 
 ### [functor-products](https://hackage.haskell.org/package/functor-products)
 
-[![functor-products repository](https://img.shields.io/github/stars/mstksg/functor-products?style=social?maxAge=86400)](https://github.com/mstksg/functor-products)
+[![functor-products repository](https://img.shields.io/github/stars/mstksg/functor-products?maxAge=86400&style=social)](https://github.com/mstksg/functor-products)
 [![functor-products on hackage](https://img.shields.io/hackage/v/functor-products?maxAge=86400)](https://hackage.haskell.org/package/functor-products)
 [![functor-products on stackage lts](https://stackage.org/package/functor-products/badge/lts)](https://stackage.org/lts/package/functor-products)
 [![functor-products on stackage nightly](https://stackage.org/package/functor-products/badge/nightly)](https://stackage.org/nightly/package/functor-products)
@@ -207,7 +207,7 @@ Haskell
 
 ### [ghcjs-websockets](https://hackage.haskell.org/package/ghcjs-websockets)
 
-[![ghcjs-websockets repository](https://img.shields.io/github/stars/mstksg/ghcjs-websockets?style=social?maxAge=86400)](https://github.com/mstksg/ghcjs-websockets)
+[![ghcjs-websockets repository](https://img.shields.io/github/stars/mstksg/ghcjs-websockets?maxAge=86400&style=social)](https://github.com/mstksg/ghcjs-websockets)
 [![ghcjs-websockets on hackage](https://img.shields.io/hackage/v/ghcjs-websockets?maxAge=86400)](https://hackage.haskell.org/package/ghcjs-websockets)
 [![ghcjs-websockets on stackage lts](https://stackage.org/package/ghcjs-websockets/badge/lts)](https://stackage.org/lts/package/ghcjs-websockets)
 [![ghcjs-websockets on stackage nightly](https://stackage.org/package/ghcjs-websockets/badge/nightly)](https://stackage.org/nightly/package/ghcjs-websockets)
@@ -221,7 +221,7 @@ Haskell
 
 ### [hakyll-dhall](https://hackage.haskell.org/package/hakyll-dhall)
 
-[![hakyll-dhall repository](https://img.shields.io/github/stars/mstksg/hakyll-dhall?style=social?maxAge=86400)](https://github.com/mstksg/hakyll-dhall)
+[![hakyll-dhall repository](https://img.shields.io/github/stars/mstksg/hakyll-dhall?maxAge=86400&style=social)](https://github.com/mstksg/hakyll-dhall)
 [![hakyll-dhall on hackage](https://img.shields.io/hackage/v/hakyll-dhall?maxAge=86400)](https://hackage.haskell.org/package/hakyll-dhall)
 [![hakyll-dhall on stackage lts](https://stackage.org/package/hakyll-dhall/badge/lts)](https://stackage.org/lts/package/hakyll-dhall)
 [![hakyll-dhall on stackage nightly](https://stackage.org/package/hakyll-dhall/badge/nightly)](https://stackage.org/nightly/package/hakyll-dhall)
@@ -235,7 +235,7 @@ Haskell
 
 ### [hamilton](https://hackage.haskell.org/package/hamilton)
 
-[![hamilton repository](https://img.shields.io/github/stars/mstksg/hamilton?style=social?maxAge=86400)](https://github.com/mstksg/hamilton)
+[![hamilton repository](https://img.shields.io/github/stars/mstksg/hamilton?maxAge=86400&style=social)](https://github.com/mstksg/hamilton)
 [![hamilton on hackage](https://img.shields.io/hackage/v/hamilton?maxAge=86400)](https://hackage.haskell.org/package/hamilton)
 [![hamilton on stackage lts](https://stackage.org/package/hamilton/badge/lts)](https://stackage.org/lts/package/hamilton)
 [![hamilton on stackage nightly](https://stackage.org/package/hamilton/badge/nightly)](https://stackage.org/nightly/package/hamilton)
@@ -249,7 +249,7 @@ Haskell
 
 ### [hmatrix-backprop](https://hackage.haskell.org/package/hmatrix-backprop)
 
-[![hmatrix-backprop repository](https://img.shields.io/github/stars/mstksg/hmatrix-backprop?style=social?maxAge=86400)](https://github.com/mstksg/hmatrix-backprop)
+[![hmatrix-backprop repository](https://img.shields.io/github/stars/mstksg/hmatrix-backprop?maxAge=86400&style=social)](https://github.com/mstksg/hmatrix-backprop)
 [![hmatrix-backprop on hackage](https://img.shields.io/hackage/v/hmatrix-backprop?maxAge=86400)](https://hackage.haskell.org/package/hmatrix-backprop)
 [![hmatrix-backprop on stackage lts](https://stackage.org/package/hmatrix-backprop/badge/lts)](https://stackage.org/lts/package/hmatrix-backprop)
 [![hmatrix-backprop on stackage nightly](https://stackage.org/package/hmatrix-backprop/badge/nightly)](https://stackage.org/nightly/package/hmatrix-backprop)
@@ -263,7 +263,7 @@ Haskell
 
 ### [hmatrix-vector-sized](https://hackage.haskell.org/package/hmatrix-vector-sized)
 
-[![hmatrix-vector-sized repository](https://img.shields.io/github/stars/mstksg/hmatrix-vector-sized?style=social?maxAge=86400)](https://github.com/mstksg/hmatrix-vector-sized)
+[![hmatrix-vector-sized repository](https://img.shields.io/github/stars/mstksg/hmatrix-vector-sized?maxAge=86400&style=social)](https://github.com/mstksg/hmatrix-vector-sized)
 [![hmatrix-vector-sized on hackage](https://img.shields.io/hackage/v/hmatrix-vector-sized?maxAge=86400)](https://hackage.haskell.org/package/hmatrix-vector-sized)
 [![hmatrix-vector-sized on stackage lts](https://stackage.org/package/hmatrix-vector-sized/badge/lts)](https://stackage.org/lts/package/hmatrix-vector-sized)
 [![hmatrix-vector-sized on stackage nightly](https://stackage.org/package/hmatrix-vector-sized/badge/nightly)](https://stackage.org/nightly/package/hmatrix-vector-sized)
@@ -277,7 +277,7 @@ Haskell
 
 ### [inCode](https://blog.jle.im)
 
-[![inCode repository](https://img.shields.io/github/stars/mstksg/inCode?style=social?maxAge=86400)](https://github.com/mstksg/inCode)
+[![inCode repository](https://img.shields.io/github/stars/mstksg/inCode?maxAge=86400&style=social)](https://github.com/mstksg/inCode)
 
 [![inCode issue tracker](https://img.shields.io/github/issues/mstksg/inCode?maxAge=86400)](https://github.com/mstksg/inCode/issues)
 [![inCode pull requests](https://img.shields.io/github/issues-pr/mstksg/inCode?maxAge=86400)](https://github.com/mstksg/inCode/pulls)
@@ -288,7 +288,7 @@ Haskell
 
 ### [interactive-plot](https://hackage.haskell.org/package/interactive-plot)
 
-[![interactive-plot repository](https://img.shields.io/github/stars/mstksg/interactive-plot?style=social?maxAge=86400)](https://github.com/mstksg/interactive-plot)
+[![interactive-plot repository](https://img.shields.io/github/stars/mstksg/interactive-plot?maxAge=86400&style=social)](https://github.com/mstksg/interactive-plot)
 [![interactive-plot on hackage](https://img.shields.io/hackage/v/interactive-plot?maxAge=86400)](https://hackage.haskell.org/package/interactive-plot)
 [![interactive-plot on stackage lts](https://stackage.org/package/interactive-plot/badge/lts)](https://stackage.org/lts/package/interactive-plot)
 [![interactive-plot on stackage nightly](https://stackage.org/package/interactive-plot/badge/nightly)](https://stackage.org/nightly/package/interactive-plot)
@@ -302,7 +302,7 @@ Haskell
 
 ### [jle-utils](https://github.com/mstksg/jle-utils)
 
-[![jle-utils repository](https://img.shields.io/github/stars/mstksg/jle-utils?style=social?maxAge=86400)](https://github.com/mstksg/jle-utils)
+[![jle-utils repository](https://img.shields.io/github/stars/mstksg/jle-utils?maxAge=86400&style=social)](https://github.com/mstksg/jle-utils)
 
 [![jle-utils issue tracker](https://img.shields.io/github/issues/mstksg/jle-utils?maxAge=86400)](https://github.com/mstksg/jle-utils/issues)
 [![jle-utils pull requests](https://img.shields.io/github/issues-pr/mstksg/jle-utils?maxAge=86400)](https://github.com/mstksg/jle-utils/pulls)
@@ -313,7 +313,7 @@ Haskell
 
 ### [lens-typelevel](https://hackage.haskell.org/package/lens-typelevel)
 
-[![lens-typelevel repository](https://img.shields.io/github/stars/mstksg/lens-typelevel?style=social?maxAge=86400)](https://github.com/mstksg/lens-typelevel)
+[![lens-typelevel repository](https://img.shields.io/github/stars/mstksg/lens-typelevel?maxAge=86400&style=social)](https://github.com/mstksg/lens-typelevel)
 [![lens-typelevel on hackage](https://img.shields.io/hackage/v/lens-typelevel?maxAge=86400)](https://hackage.haskell.org/package/lens-typelevel)
 [![lens-typelevel on stackage lts](https://stackage.org/package/lens-typelevel/badge/lts)](https://stackage.org/lts/package/lens-typelevel)
 [![lens-typelevel on stackage nightly](https://stackage.org/package/lens-typelevel/badge/nightly)](https://stackage.org/nightly/package/lens-typelevel)
@@ -327,7 +327,7 @@ Haskell
 
 ### [list-witnesses](https://hackage.haskell.org/package/list-witnesses)
 
-[![list-witnesses repository](https://img.shields.io/github/stars/mstksg/list-witnesses?style=social?maxAge=86400)](https://github.com/mstksg/list-witnesses)
+[![list-witnesses repository](https://img.shields.io/github/stars/mstksg/list-witnesses?maxAge=86400&style=social)](https://github.com/mstksg/list-witnesses)
 [![list-witnesses on hackage](https://img.shields.io/hackage/v/list-witnesses?maxAge=86400)](https://hackage.haskell.org/package/list-witnesses)
 [![list-witnesses on stackage lts](https://stackage.org/package/list-witnesses/badge/lts)](https://stackage.org/lts/package/list-witnesses)
 [![list-witnesses on stackage nightly](https://stackage.org/package/list-witnesses/badge/nightly)](https://stackage.org/nightly/package/list-witnesses)
@@ -341,7 +341,7 @@ Haskell
 
 ### [mutable](https://mutable.jle.im)
 
-[![mutable repository](https://img.shields.io/github/stars/mstksg/mutable?style=social?maxAge=86400)](https://github.com/mstksg/mutable)
+[![mutable repository](https://img.shields.io/github/stars/mstksg/mutable?maxAge=86400&style=social)](https://github.com/mstksg/mutable)
 [![mutable on hackage](https://img.shields.io/hackage/v/mutable?maxAge=86400)](https://hackage.haskell.org/package/mutable)
 [![mutable on stackage lts](https://stackage.org/package/mutable/badge/lts)](https://stackage.org/lts/package/mutable)
 [![mutable on stackage nightly](https://stackage.org/package/mutable/badge/nightly)](https://stackage.org/nightly/package/mutable)
@@ -355,7 +355,7 @@ Haskell
 
 ### [nonempty-containers](https://hackage.haskell.org/package/nonempty-containers)
 
-[![nonempty-containers repository](https://img.shields.io/github/stars/mstksg/nonempty-containers?style=social?maxAge=86400)](https://github.com/mstksg/nonempty-containers)
+[![nonempty-containers repository](https://img.shields.io/github/stars/mstksg/nonempty-containers?maxAge=86400&style=social)](https://github.com/mstksg/nonempty-containers)
 [![nonempty-containers on hackage](https://img.shields.io/hackage/v/nonempty-containers?maxAge=86400)](https://hackage.haskell.org/package/nonempty-containers)
 [![nonempty-containers on stackage lts](https://stackage.org/package/nonempty-containers/badge/lts)](https://stackage.org/lts/package/nonempty-containers)
 [![nonempty-containers on stackage nightly](https://stackage.org/package/nonempty-containers/badge/nightly)](https://stackage.org/nightly/package/nonempty-containers)
@@ -369,7 +369,7 @@ Haskell
 
 ### [one-liner-instances](https://hackage.haskell.org/package/one-liner-instances)
 
-[![one-liner-instances repository](https://img.shields.io/github/stars/mstksg/one-liner-instances?style=social?maxAge=86400)](https://github.com/mstksg/one-liner-instances)
+[![one-liner-instances repository](https://img.shields.io/github/stars/mstksg/one-liner-instances?maxAge=86400&style=social)](https://github.com/mstksg/one-liner-instances)
 [![one-liner-instances on hackage](https://img.shields.io/hackage/v/one-liner-instances?maxAge=86400)](https://hackage.haskell.org/package/one-liner-instances)
 [![one-liner-instances on stackage lts](https://stackage.org/package/one-liner-instances/badge/lts)](https://stackage.org/lts/package/one-liner-instances)
 [![one-liner-instances on stackage nightly](https://stackage.org/package/one-liner-instances/badge/nightly)](https://stackage.org/nightly/package/one-liner-instances)
@@ -385,7 +385,7 @@ Haskell
 
 *Work in Progress*
 
-[![opto repository](https://img.shields.io/github/stars/mstksg/opto?style=social?maxAge=86400)](https://github.com/mstksg/opto)
+[![opto repository](https://img.shields.io/github/stars/mstksg/opto?maxAge=86400&style=social)](https://github.com/mstksg/opto)
 
 [![opto issue tracker](https://img.shields.io/github/issues/mstksg/opto?maxAge=86400)](https://github.com/mstksg/opto/issues)
 [![opto pull requests](https://img.shields.io/github/issues-pr/mstksg/opto?maxAge=86400)](https://github.com/mstksg/opto/pulls)
@@ -396,7 +396,7 @@ Haskell
 
 ### [otp-authenticator](https://hackage.haskell.org/package/otp-authenticator)
 
-[![otp-authenticator repository](https://img.shields.io/github/stars/mstksg/otp-authenticator?style=social?maxAge=86400)](https://github.com/mstksg/otp-authenticator)
+[![otp-authenticator repository](https://img.shields.io/github/stars/mstksg/otp-authenticator?maxAge=86400&style=social)](https://github.com/mstksg/otp-authenticator)
 [![otp-authenticator on hackage](https://img.shields.io/hackage/v/otp-authenticator?maxAge=86400)](https://hackage.haskell.org/package/otp-authenticator)
 [![otp-authenticator on stackage lts](https://stackage.org/package/otp-authenticator/badge/lts)](https://stackage.org/lts/package/otp-authenticator)
 [![otp-authenticator on stackage nightly](https://stackage.org/package/otp-authenticator/badge/nightly)](https://stackage.org/nightly/package/otp-authenticator)
@@ -410,7 +410,7 @@ Haskell
 
 ### [prompt](https://hackage.haskell.org/package/prompt)
 
-[![prompt repository](https://img.shields.io/github/stars/mstksg/prompt?style=social?maxAge=86400)](https://github.com/mstksg/prompt)
+[![prompt repository](https://img.shields.io/github/stars/mstksg/prompt?maxAge=86400&style=social)](https://github.com/mstksg/prompt)
 [![prompt on hackage](https://img.shields.io/hackage/v/prompt?maxAge=86400)](https://hackage.haskell.org/package/prompt)
 [![prompt on stackage lts](https://stackage.org/package/prompt/badge/lts)](https://stackage.org/lts/package/prompt)
 [![prompt on stackage nightly](https://stackage.org/package/prompt/badge/nightly)](https://stackage.org/nightly/package/prompt)
@@ -426,7 +426,7 @@ Haskell
 
 *Work in Progress*
 
-[![pandoc-sync repository](https://img.shields.io/github/stars/mstksg/pandoc-sync?style=social?maxAge=86400)](https://github.com/mstksg/pandoc-sync)
+[![pandoc-sync repository](https://img.shields.io/github/stars/mstksg/pandoc-sync?maxAge=86400&style=social)](https://github.com/mstksg/pandoc-sync)
 
 [![pandoc-sync issue tracker](https://img.shields.io/github/issues/mstksg/pandoc-sync?maxAge=86400)](https://github.com/mstksg/pandoc-sync/issues)
 [![pandoc-sync pull requests](https://img.shields.io/github/issues-pr/mstksg/pandoc-sync?maxAge=86400)](https://github.com/mstksg/pandoc-sync/pulls)
@@ -437,7 +437,7 @@ Haskell
 
 ### [servant-cli](https://hackage.haskell.org/package/servant-cli)
 
-[![servant-cli repository](https://img.shields.io/github/stars/mstksg/servant-cli?style=social?maxAge=86400)](https://github.com/mstksg/servant-cli)
+[![servant-cli repository](https://img.shields.io/github/stars/mstksg/servant-cli?maxAge=86400&style=social)](https://github.com/mstksg/servant-cli)
 [![servant-cli on hackage](https://img.shields.io/hackage/v/servant-cli?maxAge=86400)](https://hackage.haskell.org/package/servant-cli)
 [![servant-cli on stackage lts](https://stackage.org/package/servant-cli/badge/lts)](https://stackage.org/lts/package/servant-cli)
 [![servant-cli on stackage nightly](https://stackage.org/package/servant-cli/badge/nightly)](https://stackage.org/nightly/package/servant-cli)
@@ -451,7 +451,7 @@ Haskell
 
 ### [santabot](https://github.com/mstksg/santabot)
 
-[![santabot repository](https://img.shields.io/github/stars/mstksg/santabot?style=social?maxAge=86400)](https://github.com/mstksg/santabot)
+[![santabot repository](https://img.shields.io/github/stars/mstksg/santabot?maxAge=86400&style=social)](https://github.com/mstksg/santabot)
 
 [![santabot issue tracker](https://img.shields.io/github/issues/mstksg/santabot?maxAge=86400)](https://github.com/mstksg/santabot/issues)
 [![santabot pull requests](https://img.shields.io/github/issues-pr/mstksg/santabot?maxAge=86400)](https://github.com/mstksg/santabot/pulls)
@@ -462,7 +462,7 @@ Haskell
 
 ### [tagged-binary](https://hackage.haskell.org/package/tagged-binary)
 
-[![tagged-binary repository](https://img.shields.io/github/stars/mstksg/tagged-binary?style=social?maxAge=86400)](https://github.com/mstksg/tagged-binary)
+[![tagged-binary repository](https://img.shields.io/github/stars/mstksg/tagged-binary?maxAge=86400&style=social)](https://github.com/mstksg/tagged-binary)
 [![tagged-binary on hackage](https://img.shields.io/hackage/v/tagged-binary?maxAge=86400)](https://hackage.haskell.org/package/tagged-binary)
 [![tagged-binary on stackage lts](https://stackage.org/package/tagged-binary/badge/lts)](https://stackage.org/lts/package/tagged-binary)
 [![tagged-binary on stackage nightly](https://stackage.org/package/tagged-binary/badge/nightly)](https://stackage.org/nightly/package/tagged-binary)
@@ -478,7 +478,7 @@ Haskell
 
 *Deprecated*
 
-[![type-combinators-singletons repository](https://img.shields.io/github/stars/mstksg/type-combinators-singletons?style=social?maxAge=86400)](https://github.com/mstksg/type-combinators-singletons)
+[![type-combinators-singletons repository](https://img.shields.io/github/stars/mstksg/type-combinators-singletons?maxAge=86400&style=social)](https://github.com/mstksg/type-combinators-singletons)
 [![type-combinators-singletons on hackage](https://img.shields.io/hackage/v/type-combinators-singletons?maxAge=86400)](https://hackage.haskell.org/package/type-combinators-singletons)
 [![type-combinators-singletons on stackage lts](https://stackage.org/package/type-combinators-singletons/badge/lts)](https://stackage.org/lts/package/type-combinators-singletons)
 [![type-combinators-singletons on stackage nightly](https://stackage.org/package/type-combinators-singletons/badge/nightly)](https://stackage.org/nightly/package/type-combinators-singletons)
@@ -492,7 +492,7 @@ Haskell
 
 ### [typelits-witnesses](https://hackage.haskell.org/package/typelits-witnesses)
 
-[![typelits-witnesses repository](https://img.shields.io/github/stars/mstksg/typelits-witnesses?style=social?maxAge=86400)](https://github.com/mstksg/typelits-witnesses)
+[![typelits-witnesses repository](https://img.shields.io/github/stars/mstksg/typelits-witnesses?maxAge=86400&style=social)](https://github.com/mstksg/typelits-witnesses)
 [![typelits-witnesses on hackage](https://img.shields.io/hackage/v/typelits-witnesses?maxAge=86400)](https://hackage.haskell.org/package/typelits-witnesses)
 [![typelits-witnesses on stackage lts](https://stackage.org/package/typelits-witnesses/badge/lts)](https://stackage.org/lts/package/typelits-witnesses)
 [![typelits-witnesses on stackage nightly](https://stackage.org/package/typelits-witnesses/badge/nightly)](https://stackage.org/nightly/package/typelits-witnesses)
@@ -506,7 +506,7 @@ Haskell
 
 ### [typelits-printf](https://github.com/mstksg/typelits-printf)
 
-[![typelits-printf repository](https://img.shields.io/github/stars/mstksg/typelits-printf?style=social?maxAge=86400)](https://github.com/mstksg/typelits-printf)
+[![typelits-printf repository](https://img.shields.io/github/stars/mstksg/typelits-printf?maxAge=86400&style=social)](https://github.com/mstksg/typelits-printf)
 
 [![typelits-printf issue tracker](https://img.shields.io/github/issues/mstksg/typelits-printf?maxAge=86400)](https://github.com/mstksg/typelits-printf/issues)
 [![typelits-printf pull requests](https://img.shields.io/github/issues-pr/mstksg/typelits-printf?maxAge=86400)](https://github.com/mstksg/typelits-printf/pulls)
@@ -519,7 +519,7 @@ Awaiting upload of patch VinylRecords/Vinyl#131 to hackage
 
 ### [uncertain](https://hackage.haskell.org/package/uncertain)
 
-[![uncertain repository](https://img.shields.io/github/stars/mstksg/uncertain?style=social?maxAge=86400)](https://github.com/mstksg/uncertain)
+[![uncertain repository](https://img.shields.io/github/stars/mstksg/uncertain?maxAge=86400&style=social)](https://github.com/mstksg/uncertain)
 [![uncertain on hackage](https://img.shields.io/hackage/v/uncertain?maxAge=86400)](https://hackage.haskell.org/package/uncertain)
 [![uncertain on stackage lts](https://stackage.org/package/uncertain/badge/lts)](https://stackage.org/lts/package/uncertain)
 [![uncertain on stackage nightly](https://stackage.org/package/uncertain/badge/nightly)](https://stackage.org/nightly/package/uncertain)
@@ -535,7 +535,7 @@ Awaiting upload of patch VinylRecords/Vinyl#131 to hackage
 
 *Work in Progress*
 
-[![wavelets repository](https://img.shields.io/github/stars/mstksg/wavelets?style=social?maxAge=86400)](https://github.com/mstksg/wavelets)
+[![wavelets repository](https://img.shields.io/github/stars/mstksg/wavelets?maxAge=86400&style=social)](https://github.com/mstksg/wavelets)
 
 [![wavelets issue tracker](https://img.shields.io/github/issues/mstksg/wavelets?maxAge=86400)](https://github.com/mstksg/wavelets/issues)
 [![wavelets pull requests](https://img.shields.io/github/issues-pr/mstksg/wavelets?maxAge=86400)](https://github.com/mstksg/wavelets/pulls)

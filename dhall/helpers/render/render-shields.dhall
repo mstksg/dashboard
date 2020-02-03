@@ -17,11 +17,11 @@ let renderOption =
           types.ShieldsStyle
           o
           Text
-          (λ(s : types.ShieldsStyle) → "?style=${renderStyle s}")
+          (λ(s : types.ShieldsStyle) → "&style=${renderStyle s}")
           ""
 
 let day = 60 * 60 * 24
 
 in    λ(t : Text)
     → λ(s : Optional types.ShieldsStyle)
-    → "https://img.shields.io/${t}${renderOption s}?maxAge=${Natural/show day}"
+    → "https://img.shields.io/${t}?maxAge=${Natural/show day}${renderOption s}"

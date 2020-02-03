@@ -6,8 +6,6 @@ let Status = types.Status
 
 let defaults = ../dhall/defaults.dhall
 
-let helpers = ../dhall/helpers/package.dhall
-
 let mkPkg = defaults.HaskellPackage
 
 in  [ mkPkg::{ name = "advent-of-code-api" }

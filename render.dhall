@@ -1,7 +1,5 @@
 let types = ./dhall/types.dhall
 
-let defaults = ./dhall/defaults.dhall
-
 let helpers = ./dhall/helpers/package.dhall
 
 let text =
@@ -32,6 +30,5 @@ in  ''
     -------
 
     ${haskellProjects}
-
 
     ''

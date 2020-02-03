@@ -14,7 +14,7 @@ dhall text --file render.dhall > README.md
 Haskell
 -------
 
-### [advent-of-code-api](https://github.com/mstksg/advent-of-code-api)
+### [advent-of-code-api](https://hackage.haskell.org/package/advent-of-code-api)
 
 [![advent-of-code-api repository](https://img.shields.io/github/stars/mstksg/advent-of-code-api?style=social)](https://github.com/mstksg/advent-of-code-api)
 [![advent-of-code-api on hackage](https://img.shields.io/hackage/v/advent-of-code-api)](https://hackage.haskell.org/package/advent-of-code-api)
@@ -39,7 +39,7 @@ Haskell
 
 
 
-### [auto](https://github.com/mstksg/auto)
+### [auto](https://hackage.haskell.org/package/auto)
 
 [![auto repository](https://img.shields.io/github/stars/mstksg/auto?style=social)](https://github.com/mstksg/auto)
 [![auto on hackage](https://img.shields.io/hackage/v/auto)](https://hackage.haskell.org/package/auto)
@@ -83,7 +83,7 @@ Haskell
 * Maximum support: GHC 8.8
 
 
-### [bins](https://github.com/mstksg/bins)
+### [bins](https://hackage.haskell.org/package/bins)
 
 [![bins repository](https://img.shields.io/github/stars/mstksg/bins?style=social)](https://github.com/mstksg/bins)
 [![bins on hackage](https://img.shields.io/hackage/v/bins)](https://hackage.haskell.org/package/bins)
@@ -97,7 +97,7 @@ Haskell
 
 
 
-### [conduino](https://github.com/mstksg/conduino)
+### [conduino](https://hackage.haskell.org/package/conduino)
 
 [![conduino repository](https://img.shields.io/github/stars/mstksg/conduino?style=social)](https://github.com/mstksg/conduino)
 [![conduino on hackage](https://img.shields.io/hackage/v/conduino)](https://hackage.haskell.org/package/conduino)
@@ -111,7 +111,7 @@ Haskell
 
 
 
-### [configurator-export](https://github.com/mstksg/configurator-export)
+### [configurator-export](https://hackage.haskell.org/package/configurator-export)
 
 [![configurator-export repository](https://img.shields.io/github/stars/mstksg/configurator-export?style=social)](https://github.com/mstksg/configurator-export)
 [![configurator-export on hackage](https://img.shields.io/hackage/v/configurator-export)](https://hackage.haskell.org/package/configurator-export)
@@ -138,7 +138,7 @@ Haskell
 
 
 
-### [decidable](https://github.com/mstksg/decidable)
+### [decidable](https://hackage.haskell.org/package/decidable)
 
 [![decidable repository](https://img.shields.io/github/stars/mstksg/decidable?style=social)](https://github.com/mstksg/decidable)
 [![decidable on hackage](https://img.shields.io/hackage/v/decidable)](https://hackage.haskell.org/package/decidable)
@@ -166,7 +166,7 @@ Haskell
 
 
 
-### [emd](https://github.com/mstksg/emd)
+### [emd](https://hackage.haskell.org/package/emd)
 
 [![emd repository](https://img.shields.io/github/stars/mstksg/emd?style=social)](https://github.com/mstksg/emd)
 [![emd on hackage](https://img.shields.io/hackage/v/emd)](https://hackage.haskell.org/package/emd)
@@ -180,7 +180,7 @@ Haskell
 
 
 
-### [functor-combinators](https://github.com/mstksg/functor-combinators)
+### [functor-combinators](https://hackage.haskell.org/package/functor-combinators)
 
 [![functor-combinators repository](https://img.shields.io/github/stars/mstksg/functor-combinators?style=social)](https://github.com/mstksg/functor-combinators)
 [![functor-combinators on hackage](https://img.shields.io/hackage/v/functor-combinators)](https://hackage.haskell.org/package/functor-combinators)
@@ -194,7 +194,7 @@ Haskell
 
 
 
-### [functor-products](https://github.com/mstksg/functor-products)
+### [functor-products](https://hackage.haskell.org/package/functor-products)
 
 [![functor-products repository](https://img.shields.io/github/stars/mstksg/functor-products?style=social)](https://github.com/mstksg/functor-products)
 [![functor-products on hackage](https://img.shields.io/hackage/v/functor-products)](https://hackage.haskell.org/package/functor-products)
@@ -209,7 +209,7 @@ Haskell
 * Maximum support: GHC 8.8
 
 
-### [ghcjs-websockets](https://github.com/mstksg/ghcjs-websockets)
+### [ghcjs-websockets](https://hackage.haskell.org/package/ghcjs-websockets)
 
 [![ghcjs-websockets repository](https://img.shields.io/github/stars/mstksg/ghcjs-websockets?style=social)](https://github.com/mstksg/ghcjs-websockets)
 [![ghcjs-websockets on hackage](https://img.shields.io/hackage/v/ghcjs-websockets)](https://hackage.haskell.org/package/ghcjs-websockets)
@@ -223,7 +223,7 @@ Haskell
 
 
 
-### [hakyll-dhall](https://github.com/mstksg/hakyll-dhall)
+### [hakyll-dhall](https://hackage.haskell.org/package/hakyll-dhall)
 
 [![hakyll-dhall repository](https://img.shields.io/github/stars/mstksg/hakyll-dhall?style=social)](https://github.com/mstksg/hakyll-dhall)
 [![hakyll-dhall on hackage](https://img.shields.io/hackage/v/hakyll-dhall)](https://hackage.haskell.org/package/hakyll-dhall)
@@ -237,7 +237,7 @@ Haskell
 
 
 
-### [hamilton](https://github.com/mstksg/hamilton)
+### [hamilton](https://hackage.haskell.org/package/hamilton)
 
 [![hamilton repository](https://img.shields.io/github/stars/mstksg/hamilton?style=social)](https://github.com/mstksg/hamilton)
 [![hamilton on hackage](https://img.shields.io/hackage/v/hamilton)](https://hackage.haskell.org/package/hamilton)
@@ -251,7 +251,7 @@ Haskell
 
 
 
-### [hmatrix-backprop](https://github.com/mstksg/hmatrix-backprop)
+### [hmatrix-backprop](https://hackage.haskell.org/package/hmatrix-backprop)
 
 [![hmatrix-backprop repository](https://img.shields.io/github/stars/mstksg/hmatrix-backprop?style=social)](https://github.com/mstksg/hmatrix-backprop)
 [![hmatrix-backprop on hackage](https://img.shields.io/hackage/v/hmatrix-backprop)](https://hackage.haskell.org/package/hmatrix-backprop)
@@ -265,7 +265,7 @@ Haskell
 
 
 
-### [hmatrix-vector-sized](https://github.com/mstksg/hmatrix-vector-sized)
+### [hmatrix-vector-sized](https://hackage.haskell.org/package/hmatrix-vector-sized)
 
 [![hmatrix-vector-sized repository](https://img.shields.io/github/stars/mstksg/hmatrix-vector-sized?style=social)](https://github.com/mstksg/hmatrix-vector-sized)
 [![hmatrix-vector-sized on hackage](https://img.shields.io/hackage/v/hmatrix-vector-sized)](https://hackage.haskell.org/package/hmatrix-vector-sized)
@@ -292,7 +292,7 @@ Haskell
 
 
 
-### [interactive-plot](https://github.com/mstksg/interactive-plot)
+### [interactive-plot](https://hackage.haskell.org/package/interactive-plot)
 
 [![interactive-plot repository](https://img.shields.io/github/stars/mstksg/interactive-plot?style=social)](https://github.com/mstksg/interactive-plot)
 [![interactive-plot on hackage](https://img.shields.io/hackage/v/interactive-plot)](https://hackage.haskell.org/package/interactive-plot)
@@ -317,7 +317,7 @@ Haskell
 
 
 
-### [lens-typelevel](https://github.com/mstksg/lens-typelevel)
+### [lens-typelevel](https://hackage.haskell.org/package/lens-typelevel)
 
 [![lens-typelevel repository](https://img.shields.io/github/stars/mstksg/lens-typelevel?style=social)](https://github.com/mstksg/lens-typelevel)
 [![lens-typelevel on hackage](https://img.shields.io/hackage/v/lens-typelevel)](https://hackage.haskell.org/package/lens-typelevel)
@@ -331,7 +331,7 @@ Haskell
 
 
 
-### [list-witnesses](https://github.com/mstksg/list-witnesses)
+### [list-witnesses](https://hackage.haskell.org/package/list-witnesses)
 
 [![list-witnesses repository](https://img.shields.io/github/stars/mstksg/list-witnesses?style=social)](https://github.com/mstksg/list-witnesses)
 [![list-witnesses on hackage](https://img.shields.io/hackage/v/list-witnesses)](https://hackage.haskell.org/package/list-witnesses)
@@ -361,7 +361,7 @@ Haskell
 
 
 
-### [nonempty-containers](https://github.com/mstksg/nonempty-containers)
+### [nonempty-containers](https://hackage.haskell.org/package/nonempty-containers)
 
 [![nonempty-containers repository](https://img.shields.io/github/stars/mstksg/nonempty-containers?style=social)](https://github.com/mstksg/nonempty-containers)
 [![nonempty-containers on hackage](https://img.shields.io/hackage/v/nonempty-containers)](https://hackage.haskell.org/package/nonempty-containers)
@@ -375,7 +375,7 @@ Haskell
 
 
 
-### [one-liner-instances](https://github.com/mstksg/one-liner-instances)
+### [one-liner-instances](https://hackage.haskell.org/package/one-liner-instances)
 
 [![one-liner-instances repository](https://img.shields.io/github/stars/mstksg/one-liner-instances?style=social)](https://github.com/mstksg/one-liner-instances)
 [![one-liner-instances on hackage](https://img.shields.io/hackage/v/one-liner-instances)](https://hackage.haskell.org/package/one-liner-instances)
@@ -402,7 +402,7 @@ Haskell
 
 
 
-### [otp-authenticator](https://github.com/mstksg/otp-authenticator)
+### [otp-authenticator](https://hackage.haskell.org/package/otp-authenticator)
 
 [![otp-authenticator repository](https://img.shields.io/github/stars/mstksg/otp-authenticator?style=social)](https://github.com/mstksg/otp-authenticator)
 [![otp-authenticator on hackage](https://img.shields.io/hackage/v/otp-authenticator)](https://hackage.haskell.org/package/otp-authenticator)
@@ -416,7 +416,7 @@ Haskell
 
 
 
-### [prompt](https://github.com/mstksg/prompt)
+### [prompt](https://hackage.haskell.org/package/prompt)
 
 [![prompt repository](https://img.shields.io/github/stars/mstksg/prompt?style=social)](https://github.com/mstksg/prompt)
 [![prompt on hackage](https://img.shields.io/hackage/v/prompt)](https://hackage.haskell.org/package/prompt)
@@ -443,7 +443,7 @@ Haskell
 
 
 
-### [servant-cli](https://github.com/mstksg/servant-cli)
+### [servant-cli](https://hackage.haskell.org/package/servant-cli)
 
 [![servant-cli repository](https://img.shields.io/github/stars/mstksg/servant-cli?style=social)](https://github.com/mstksg/servant-cli)
 [![servant-cli on hackage](https://img.shields.io/hackage/v/servant-cli)](https://hackage.haskell.org/package/servant-cli)
@@ -468,7 +468,7 @@ Haskell
 
 
 
-### [tagged-binary](https://github.com/mstksg/tagged-binary)
+### [tagged-binary](https://hackage.haskell.org/package/tagged-binary)
 
 [![tagged-binary repository](https://img.shields.io/github/stars/mstksg/tagged-binary?style=social)](https://github.com/mstksg/tagged-binary)
 [![tagged-binary on hackage](https://img.shields.io/hackage/v/tagged-binary)](https://hackage.haskell.org/package/tagged-binary)
@@ -482,7 +482,7 @@ Haskell
 
 
 
-### [type-combinators-singletons](https://github.com/mstksg/type-combinators-singletons)
+### [type-combinators-singletons](https://hackage.haskell.org/package/type-combinators-singletons)
 
 *Deprecated*
 
@@ -498,7 +498,7 @@ Haskell
 
 
 
-### [typelits-witnesses](https://github.com/mstksg/typelits-witnesses)
+### [typelits-witnesses](https://hackage.haskell.org/package/typelits-witnesses)
 
 [![typelits-witnesses repository](https://img.shields.io/github/stars/mstksg/typelits-witnesses?style=social)](https://github.com/mstksg/typelits-witnesses)
 [![typelits-witnesses on hackage](https://img.shields.io/hackage/v/typelits-witnesses)](https://hackage.haskell.org/package/typelits-witnesses)
@@ -525,7 +525,7 @@ Haskell
 Awaiting upload of patch VinylRecords/Vinyl#131 to hackage
 
 
-### [uncertain](https://github.com/mstksg/uncertain)
+### [uncertain](https://hackage.haskell.org/package/uncertain)
 
 [![uncertain repository](https://img.shields.io/github/stars/mstksg/uncertain?style=social)](https://github.com/mstksg/uncertain)
 [![uncertain on hackage](https://img.shields.io/hackage/v/uncertain)](https://hackage.haskell.org/package/uncertain)

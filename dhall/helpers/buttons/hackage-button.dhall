@@ -5,7 +5,7 @@ in    λ(name : Text)
             ../render-shields.dhall
               "hackage/v/${name}"
               (None types.ShieldsStyle)
-        , link = "https://hackage.haskell.org/package/${name}"
+        , link = ../render-hackage.dhall name
         , alt = "${name} on hackage"
         }
       : types.Button

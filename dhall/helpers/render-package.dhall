@@ -34,7 +34,12 @@ in    λ(p : types.HaskellPackage)
               p.homepage
               Text
               (λ(l : types.Link) → l.url)
-              (./render-github.dhall gh)
+              (       if ./on-hackage.dhall p.status
+
+                then  ./render-hackage.dhall p.name
+
+                else  ./render-github.dhall gh
+              )
 
       in  catMaybeSep
             "\n\n"

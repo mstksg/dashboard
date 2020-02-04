@@ -23,6 +23,7 @@ Haskell
 
 [![advent-of-code-api issue tracker](https://img.shields.io/github/issues/mstksg/advent-of-code-api?maxAge=86400)](https://github.com/mstksg/advent-of-code-api/issues)
 [![advent-of-code-api pull requests](https://img.shields.io/github/issues-pr/mstksg/advent-of-code-api?maxAge=86400)](https://github.com/mstksg/advent-of-code-api/pulls)
+[![advent-of-code-api last commit](https://img.shields.io/github/last-commit/mstksg/advent-of-code-api?maxAge=86400)](https://github.com/mstksg/advent-of-code-api/commits)
 [![advent-of-code-api build status](https://travis-ci.org/mstksg/advent-of-code-api.svg?branch=master)](https://travis-ci.org/mstksg/advent-of-code-api)
 
 
@@ -34,6 +35,7 @@ Haskell
 
 [![advent-of-code-dev issue tracker](https://img.shields.io/github/issues/mstksg/advent-of-code-dev?maxAge=86400)](https://github.com/mstksg/advent-of-code-dev/issues)
 [![advent-of-code-dev pull requests](https://img.shields.io/github/issues-pr/mstksg/advent-of-code-dev?maxAge=86400)](https://github.com/mstksg/advent-of-code-dev/pulls)
+[![advent-of-code-dev last commit](https://img.shields.io/github/last-commit/mstksg/advent-of-code-dev?maxAge=86400)](https://github.com/mstksg/advent-of-code-dev/commits)
 [![advent-of-code-dev build status](https://travis-ci.org/mstksg/advent-of-code-dev.svg?branch=master)](https://travis-ci.org/mstksg/advent-of-code-dev)
 
 
@@ -48,6 +50,7 @@ Haskell
 
 [![auto issue tracker](https://img.shields.io/github/issues/mstksg/auto?maxAge=86400)](https://github.com/mstksg/auto/issues)
 [![auto pull requests](https://img.shields.io/github/issues-pr/mstksg/auto?maxAge=86400)](https://github.com/mstksg/auto/pulls)
+[![auto last commit](https://img.shields.io/github/last-commit/mstksg/auto?maxAge=86400)](https://github.com/mstksg/auto/commits)
 [![auto build status](https://travis-ci.org/mstksg/auto.svg?branch=master)](https://travis-ci.org/mstksg/auto)
 
 
@@ -62,6 +65,7 @@ Haskell
 
 [![backprop issue tracker](https://img.shields.io/github/issues/mstksg/backprop?maxAge=86400)](https://github.com/mstksg/backprop/issues)
 [![backprop pull requests](https://img.shields.io/github/issues-pr/mstksg/backprop?maxAge=86400)](https://github.com/mstksg/backprop/pulls)
+[![backprop last commit](https://img.shields.io/github/last-commit/mstksg/backprop?maxAge=86400)](https://github.com/mstksg/backprop/commits)
 [![backprop build status](https://travis-ci.org/mstksg/backprop.svg?branch=master)](https://travis-ci.org/mstksg/backprop)
 
 
@@ -75,6 +79,7 @@ Haskell
 
 [![backprop-learn issue tracker](https://img.shields.io/github/issues/mstksg/backprop-learn?maxAge=86400)](https://github.com/mstksg/backprop-learn/issues)
 [![backprop-learn pull requests](https://img.shields.io/github/issues-pr/mstksg/backprop-learn?maxAge=86400)](https://github.com/mstksg/backprop-learn/pulls)
+[![backprop-learn last commit](https://img.shields.io/github/last-commit/mstksg/backprop-learn?maxAge=86400)](https://github.com/mstksg/backprop-learn/commits)
 [![backprop-learn build status](https://travis-ci.org/mstksg/backprop-learn.svg?branch=master)](https://travis-ci.org/mstksg/backprop-learn)
 
 * Minimum support: GHC 8.8
@@ -90,6 +95,7 @@ Haskell
 
 [![bins issue tracker](https://img.shields.io/github/issues/mstksg/bins?maxAge=86400)](https://github.com/mstksg/bins/issues)
 [![bins pull requests](https://img.shields.io/github/issues-pr/mstksg/bins?maxAge=86400)](https://github.com/mstksg/bins/pulls)
+[![bins last commit](https://img.shields.io/github/last-commit/mstksg/bins?maxAge=86400)](https://github.com/mstksg/bins/commits)
 [![bins build status](https://travis-ci.org/mstksg/bins.svg?branch=master)](https://travis-ci.org/mstksg/bins)
 
 
@@ -104,6 +110,7 @@ Haskell
 
 [![conduino issue tracker](https://img.shields.io/github/issues/mstksg/conduino?maxAge=86400)](https://github.com/mstksg/conduino/issues)
 [![conduino pull requests](https://img.shields.io/github/issues-pr/mstksg/conduino?maxAge=86400)](https://github.com/mstksg/conduino/pulls)
+[![conduino last commit](https://img.shields.io/github/last-commit/mstksg/conduino?maxAge=86400)](https://github.com/mstksg/conduino/commits)
 [![conduino build status](https://travis-ci.org/mstksg/conduino.svg?branch=master)](https://travis-ci.org/mstksg/conduino)
 
 
@@ -118,6 +125,7 @@ Haskell
 
 [![configurator-export issue tracker](https://img.shields.io/github/issues/mstksg/configurator-export?maxAge=86400)](https://github.com/mstksg/configurator-export/issues)
 [![configurator-export pull requests](https://img.shields.io/github/issues-pr/mstksg/configurator-export?maxAge=86400)](https://github.com/mstksg/configurator-export/pulls)
+[![configurator-export last commit](https://img.shields.io/github/last-commit/mstksg/configurator-export?maxAge=86400)](https://github.com/mstksg/configurator-export/commits)
 [![configurator-export build status](https://travis-ci.org/mstksg/configurator-export.svg?branch=master)](https://travis-ci.org/mstksg/configurator-export)
 
 
@@ -129,6 +137,7 @@ Haskell
 
 [![cv-static issue tracker](https://img.shields.io/github/issues/mstksg/cv-static?maxAge=86400)](https://github.com/mstksg/cv-static/issues)
 [![cv-static pull requests](https://img.shields.io/github/issues-pr/mstksg/cv-static?maxAge=86400)](https://github.com/mstksg/cv-static/pulls)
+[![cv-static last commit](https://img.shields.io/github/last-commit/mstksg/cv-static?maxAge=86400)](https://github.com/mstksg/cv-static/commits)
 [![cv-static build status](https://travis-ci.org/mstksg/cv-static.svg?branch=master)](https://travis-ci.org/mstksg/cv-static)
 
 
@@ -143,6 +152,7 @@ Haskell
 
 [![decidable issue tracker](https://img.shields.io/github/issues/mstksg/decidable?maxAge=86400)](https://github.com/mstksg/decidable/issues)
 [![decidable pull requests](https://img.shields.io/github/issues-pr/mstksg/decidable?maxAge=86400)](https://github.com/mstksg/decidable/pulls)
+[![decidable last commit](https://img.shields.io/github/last-commit/mstksg/decidable?maxAge=86400)](https://github.com/mstksg/decidable/commits)
 [![decidable build status](https://travis-ci.org/mstksg/decidable.svg?branch=master)](https://travis-ci.org/mstksg/decidable)
 
 * Minimum support: GHC 8.8
@@ -157,6 +167,7 @@ Haskell
 
 [![data-diff issue tracker](https://img.shields.io/github/issues/mstksg/data-diff?maxAge=86400)](https://github.com/mstksg/data-diff/issues)
 [![data-diff pull requests](https://img.shields.io/github/issues-pr/mstksg/data-diff?maxAge=86400)](https://github.com/mstksg/data-diff/pulls)
+[![data-diff last commit](https://img.shields.io/github/last-commit/mstksg/data-diff?maxAge=86400)](https://github.com/mstksg/data-diff/commits)
 [![data-diff build status](https://travis-ci.org/mstksg/data-diff.svg?branch=master)](https://travis-ci.org/mstksg/data-diff)
 
 
@@ -171,6 +182,7 @@ Haskell
 
 [![emd issue tracker](https://img.shields.io/github/issues/mstksg/emd?maxAge=86400)](https://github.com/mstksg/emd/issues)
 [![emd pull requests](https://img.shields.io/github/issues-pr/mstksg/emd?maxAge=86400)](https://github.com/mstksg/emd/pulls)
+[![emd last commit](https://img.shields.io/github/last-commit/mstksg/emd?maxAge=86400)](https://github.com/mstksg/emd/commits)
 [![emd build status](https://travis-ci.org/mstksg/emd.svg?branch=master)](https://travis-ci.org/mstksg/emd)
 
 
@@ -185,6 +197,7 @@ Haskell
 
 [![functor-combinators issue tracker](https://img.shields.io/github/issues/mstksg/functor-combinators?maxAge=86400)](https://github.com/mstksg/functor-combinators/issues)
 [![functor-combinators pull requests](https://img.shields.io/github/issues-pr/mstksg/functor-combinators?maxAge=86400)](https://github.com/mstksg/functor-combinators/pulls)
+[![functor-combinators last commit](https://img.shields.io/github/last-commit/mstksg/functor-combinators?maxAge=86400)](https://github.com/mstksg/functor-combinators/commits)
 [![functor-combinators build status](https://travis-ci.org/mstksg/functor-combinators.svg?branch=master)](https://travis-ci.org/mstksg/functor-combinators)
 
 
@@ -199,6 +212,7 @@ Haskell
 
 [![functor-products issue tracker](https://img.shields.io/github/issues/mstksg/functor-products?maxAge=86400)](https://github.com/mstksg/functor-products/issues)
 [![functor-products pull requests](https://img.shields.io/github/issues-pr/mstksg/functor-products?maxAge=86400)](https://github.com/mstksg/functor-products/pulls)
+[![functor-products last commit](https://img.shields.io/github/last-commit/mstksg/functor-products?maxAge=86400)](https://github.com/mstksg/functor-products/commits)
 [![functor-products build status](https://travis-ci.org/mstksg/functor-products.svg?branch=master)](https://travis-ci.org/mstksg/functor-products)
 
 * Minimum support: GHC 8.8
@@ -214,6 +228,7 @@ Haskell
 
 [![ghcjs-websockets issue tracker](https://img.shields.io/github/issues/mstksg/ghcjs-websockets?maxAge=86400)](https://github.com/mstksg/ghcjs-websockets/issues)
 [![ghcjs-websockets pull requests](https://img.shields.io/github/issues-pr/mstksg/ghcjs-websockets?maxAge=86400)](https://github.com/mstksg/ghcjs-websockets/pulls)
+[![ghcjs-websockets last commit](https://img.shields.io/github/last-commit/mstksg/ghcjs-websockets?maxAge=86400)](https://github.com/mstksg/ghcjs-websockets/commits)
 [![ghcjs-websockets build status](https://travis-ci.org/mstksg/ghcjs-websockets.svg?branch=master)](https://travis-ci.org/mstksg/ghcjs-websockets)
 
 
@@ -228,6 +243,7 @@ Haskell
 
 [![hakyll-dhall issue tracker](https://img.shields.io/github/issues/mstksg/hakyll-dhall?maxAge=86400)](https://github.com/mstksg/hakyll-dhall/issues)
 [![hakyll-dhall pull requests](https://img.shields.io/github/issues-pr/mstksg/hakyll-dhall?maxAge=86400)](https://github.com/mstksg/hakyll-dhall/pulls)
+[![hakyll-dhall last commit](https://img.shields.io/github/last-commit/mstksg/hakyll-dhall?maxAge=86400)](https://github.com/mstksg/hakyll-dhall/commits)
 [![hakyll-dhall build status](https://travis-ci.org/mstksg/hakyll-dhall.svg?branch=master)](https://travis-ci.org/mstksg/hakyll-dhall)
 
 
@@ -242,6 +258,7 @@ Haskell
 
 [![hamilton issue tracker](https://img.shields.io/github/issues/mstksg/hamilton?maxAge=86400)](https://github.com/mstksg/hamilton/issues)
 [![hamilton pull requests](https://img.shields.io/github/issues-pr/mstksg/hamilton?maxAge=86400)](https://github.com/mstksg/hamilton/pulls)
+[![hamilton last commit](https://img.shields.io/github/last-commit/mstksg/hamilton?maxAge=86400)](https://github.com/mstksg/hamilton/commits)
 [![hamilton build status](https://travis-ci.org/mstksg/hamilton.svg?branch=master)](https://travis-ci.org/mstksg/hamilton)
 
 
@@ -256,6 +273,7 @@ Haskell
 
 [![hmatrix-backprop issue tracker](https://img.shields.io/github/issues/mstksg/hmatrix-backprop?maxAge=86400)](https://github.com/mstksg/hmatrix-backprop/issues)
 [![hmatrix-backprop pull requests](https://img.shields.io/github/issues-pr/mstksg/hmatrix-backprop?maxAge=86400)](https://github.com/mstksg/hmatrix-backprop/pulls)
+[![hmatrix-backprop last commit](https://img.shields.io/github/last-commit/mstksg/hmatrix-backprop?maxAge=86400)](https://github.com/mstksg/hmatrix-backprop/commits)
 [![hmatrix-backprop build status](https://travis-ci.org/mstksg/hmatrix-backprop.svg?branch=master)](https://travis-ci.org/mstksg/hmatrix-backprop)
 
 
@@ -270,6 +288,7 @@ Haskell
 
 [![hmatrix-vector-sized issue tracker](https://img.shields.io/github/issues/mstksg/hmatrix-vector-sized?maxAge=86400)](https://github.com/mstksg/hmatrix-vector-sized/issues)
 [![hmatrix-vector-sized pull requests](https://img.shields.io/github/issues-pr/mstksg/hmatrix-vector-sized?maxAge=86400)](https://github.com/mstksg/hmatrix-vector-sized/pulls)
+[![hmatrix-vector-sized last commit](https://img.shields.io/github/last-commit/mstksg/hmatrix-vector-sized?maxAge=86400)](https://github.com/mstksg/hmatrix-vector-sized/commits)
 [![hmatrix-vector-sized build status](https://travis-ci.org/mstksg/hmatrix-vector-sized.svg?branch=master)](https://travis-ci.org/mstksg/hmatrix-vector-sized)
 
 
@@ -281,6 +300,7 @@ Haskell
 
 [![inCode issue tracker](https://img.shields.io/github/issues/mstksg/inCode?maxAge=86400)](https://github.com/mstksg/inCode/issues)
 [![inCode pull requests](https://img.shields.io/github/issues-pr/mstksg/inCode?maxAge=86400)](https://github.com/mstksg/inCode/pulls)
+[![inCode last commit](https://img.shields.io/github/last-commit/mstksg/inCode?maxAge=86400)](https://github.com/mstksg/inCode/commits)
 [![inCode build status](https://travis-ci.org/mstksg/inCode.svg?branch=master)](https://travis-ci.org/mstksg/inCode)
 
 
@@ -295,6 +315,7 @@ Haskell
 
 [![interactive-plot issue tracker](https://img.shields.io/github/issues/mstksg/interactive-plot?maxAge=86400)](https://github.com/mstksg/interactive-plot/issues)
 [![interactive-plot pull requests](https://img.shields.io/github/issues-pr/mstksg/interactive-plot?maxAge=86400)](https://github.com/mstksg/interactive-plot/pulls)
+[![interactive-plot last commit](https://img.shields.io/github/last-commit/mstksg/interactive-plot?maxAge=86400)](https://github.com/mstksg/interactive-plot/commits)
 [![interactive-plot build status](https://travis-ci.org/mstksg/interactive-plot.svg?branch=master)](https://travis-ci.org/mstksg/interactive-plot)
 
 
@@ -306,6 +327,7 @@ Haskell
 
 [![jle-utils issue tracker](https://img.shields.io/github/issues/mstksg/jle-utils?maxAge=86400)](https://github.com/mstksg/jle-utils/issues)
 [![jle-utils pull requests](https://img.shields.io/github/issues-pr/mstksg/jle-utils?maxAge=86400)](https://github.com/mstksg/jle-utils/pulls)
+[![jle-utils last commit](https://img.shields.io/github/last-commit/mstksg/jle-utils?maxAge=86400)](https://github.com/mstksg/jle-utils/commits)
 [![jle-utils build status](https://travis-ci.org/mstksg/jle-utils.svg?branch=master)](https://travis-ci.org/mstksg/jle-utils)
 
 
@@ -320,6 +342,7 @@ Haskell
 
 [![lens-typelevel issue tracker](https://img.shields.io/github/issues/mstksg/lens-typelevel?maxAge=86400)](https://github.com/mstksg/lens-typelevel/issues)
 [![lens-typelevel pull requests](https://img.shields.io/github/issues-pr/mstksg/lens-typelevel?maxAge=86400)](https://github.com/mstksg/lens-typelevel/pulls)
+[![lens-typelevel last commit](https://img.shields.io/github/last-commit/mstksg/lens-typelevel?maxAge=86400)](https://github.com/mstksg/lens-typelevel/commits)
 [![lens-typelevel build status](https://travis-ci.org/mstksg/lens-typelevel.svg?branch=master)](https://travis-ci.org/mstksg/lens-typelevel)
 
 
@@ -334,6 +357,7 @@ Haskell
 
 [![list-witnesses issue tracker](https://img.shields.io/github/issues/mstksg/list-witnesses?maxAge=86400)](https://github.com/mstksg/list-witnesses/issues)
 [![list-witnesses pull requests](https://img.shields.io/github/issues-pr/mstksg/list-witnesses?maxAge=86400)](https://github.com/mstksg/list-witnesses/pulls)
+[![list-witnesses last commit](https://img.shields.io/github/last-commit/mstksg/list-witnesses?maxAge=86400)](https://github.com/mstksg/list-witnesses/commits)
 [![list-witnesses build status](https://travis-ci.org/mstksg/list-witnesses.svg?branch=master)](https://travis-ci.org/mstksg/list-witnesses)
 
 
@@ -348,6 +372,7 @@ Haskell
 
 [![mutable issue tracker](https://img.shields.io/github/issues/mstksg/mutable?maxAge=86400)](https://github.com/mstksg/mutable/issues)
 [![mutable pull requests](https://img.shields.io/github/issues-pr/mstksg/mutable?maxAge=86400)](https://github.com/mstksg/mutable/pulls)
+[![mutable last commit](https://img.shields.io/github/last-commit/mstksg/mutable?maxAge=86400)](https://github.com/mstksg/mutable/commits)
 [![mutable build status](https://travis-ci.org/mstksg/mutable.svg?branch=master)](https://travis-ci.org/mstksg/mutable)
 
 
@@ -362,6 +387,7 @@ Haskell
 
 [![nonempty-containers issue tracker](https://img.shields.io/github/issues/mstksg/nonempty-containers?maxAge=86400)](https://github.com/mstksg/nonempty-containers/issues)
 [![nonempty-containers pull requests](https://img.shields.io/github/issues-pr/mstksg/nonempty-containers?maxAge=86400)](https://github.com/mstksg/nonempty-containers/pulls)
+[![nonempty-containers last commit](https://img.shields.io/github/last-commit/mstksg/nonempty-containers?maxAge=86400)](https://github.com/mstksg/nonempty-containers/commits)
 [![nonempty-containers build status](https://travis-ci.org/mstksg/nonempty-containers.svg?branch=master)](https://travis-ci.org/mstksg/nonempty-containers)
 
 
@@ -376,6 +402,7 @@ Haskell
 
 [![one-liner-instances issue tracker](https://img.shields.io/github/issues/mstksg/one-liner-instances?maxAge=86400)](https://github.com/mstksg/one-liner-instances/issues)
 [![one-liner-instances pull requests](https://img.shields.io/github/issues-pr/mstksg/one-liner-instances?maxAge=86400)](https://github.com/mstksg/one-liner-instances/pulls)
+[![one-liner-instances last commit](https://img.shields.io/github/last-commit/mstksg/one-liner-instances?maxAge=86400)](https://github.com/mstksg/one-liner-instances/commits)
 [![one-liner-instances build status](https://travis-ci.org/mstksg/one-liner-instances.svg?branch=master)](https://travis-ci.org/mstksg/one-liner-instances)
 
 
@@ -389,6 +416,7 @@ Haskell
 
 [![opto issue tracker](https://img.shields.io/github/issues/mstksg/opto?maxAge=86400)](https://github.com/mstksg/opto/issues)
 [![opto pull requests](https://img.shields.io/github/issues-pr/mstksg/opto?maxAge=86400)](https://github.com/mstksg/opto/pulls)
+[![opto last commit](https://img.shields.io/github/last-commit/mstksg/opto?maxAge=86400)](https://github.com/mstksg/opto/commits)
 [![opto build status](https://travis-ci.org/mstksg/opto.svg?branch=master)](https://travis-ci.org/mstksg/opto)
 
 
@@ -403,6 +431,7 @@ Haskell
 
 [![otp-authenticator issue tracker](https://img.shields.io/github/issues/mstksg/otp-authenticator?maxAge=86400)](https://github.com/mstksg/otp-authenticator/issues)
 [![otp-authenticator pull requests](https://img.shields.io/github/issues-pr/mstksg/otp-authenticator?maxAge=86400)](https://github.com/mstksg/otp-authenticator/pulls)
+[![otp-authenticator last commit](https://img.shields.io/github/last-commit/mstksg/otp-authenticator?maxAge=86400)](https://github.com/mstksg/otp-authenticator/commits)
 [![otp-authenticator build status](https://travis-ci.org/mstksg/otp-authenticator.svg?branch=master)](https://travis-ci.org/mstksg/otp-authenticator)
 
 
@@ -417,6 +446,7 @@ Haskell
 
 [![prompt issue tracker](https://img.shields.io/github/issues/mstksg/prompt?maxAge=86400)](https://github.com/mstksg/prompt/issues)
 [![prompt pull requests](https://img.shields.io/github/issues-pr/mstksg/prompt?maxAge=86400)](https://github.com/mstksg/prompt/pulls)
+[![prompt last commit](https://img.shields.io/github/last-commit/mstksg/prompt?maxAge=86400)](https://github.com/mstksg/prompt/commits)
 [![prompt build status](https://travis-ci.org/mstksg/prompt.svg?branch=master)](https://travis-ci.org/mstksg/prompt)
 
 
@@ -430,6 +460,7 @@ Haskell
 
 [![pandoc-sync issue tracker](https://img.shields.io/github/issues/mstksg/pandoc-sync?maxAge=86400)](https://github.com/mstksg/pandoc-sync/issues)
 [![pandoc-sync pull requests](https://img.shields.io/github/issues-pr/mstksg/pandoc-sync?maxAge=86400)](https://github.com/mstksg/pandoc-sync/pulls)
+[![pandoc-sync last commit](https://img.shields.io/github/last-commit/mstksg/pandoc-sync?maxAge=86400)](https://github.com/mstksg/pandoc-sync/commits)
 [![pandoc-sync build status](https://travis-ci.org/mstksg/pandoc-sync.svg?branch=master)](https://travis-ci.org/mstksg/pandoc-sync)
 
 
@@ -444,6 +475,7 @@ Haskell
 
 [![servant-cli issue tracker](https://img.shields.io/github/issues/mstksg/servant-cli?maxAge=86400)](https://github.com/mstksg/servant-cli/issues)
 [![servant-cli pull requests](https://img.shields.io/github/issues-pr/mstksg/servant-cli?maxAge=86400)](https://github.com/mstksg/servant-cli/pulls)
+[![servant-cli last commit](https://img.shields.io/github/last-commit/mstksg/servant-cli?maxAge=86400)](https://github.com/mstksg/servant-cli/commits)
 [![servant-cli build status](https://travis-ci.org/mstksg/servant-cli.svg?branch=master)](https://travis-ci.org/mstksg/servant-cli)
 
 
@@ -455,6 +487,7 @@ Haskell
 
 [![santabot issue tracker](https://img.shields.io/github/issues/mstksg/santabot?maxAge=86400)](https://github.com/mstksg/santabot/issues)
 [![santabot pull requests](https://img.shields.io/github/issues-pr/mstksg/santabot?maxAge=86400)](https://github.com/mstksg/santabot/pulls)
+[![santabot last commit](https://img.shields.io/github/last-commit/mstksg/santabot?maxAge=86400)](https://github.com/mstksg/santabot/commits)
 [![santabot build status](https://travis-ci.org/mstksg/santabot.svg?branch=master)](https://travis-ci.org/mstksg/santabot)
 
 
@@ -469,6 +502,7 @@ Haskell
 
 [![tagged-binary issue tracker](https://img.shields.io/github/issues/mstksg/tagged-binary?maxAge=86400)](https://github.com/mstksg/tagged-binary/issues)
 [![tagged-binary pull requests](https://img.shields.io/github/issues-pr/mstksg/tagged-binary?maxAge=86400)](https://github.com/mstksg/tagged-binary/pulls)
+[![tagged-binary last commit](https://img.shields.io/github/last-commit/mstksg/tagged-binary?maxAge=86400)](https://github.com/mstksg/tagged-binary/commits)
 [![tagged-binary build status](https://travis-ci.org/mstksg/tagged-binary.svg?branch=master)](https://travis-ci.org/mstksg/tagged-binary)
 
 
@@ -485,6 +519,7 @@ Haskell
 
 [![type-combinators-singletons issue tracker](https://img.shields.io/github/issues/mstksg/type-combinators-singletons?maxAge=86400)](https://github.com/mstksg/type-combinators-singletons/issues)
 [![type-combinators-singletons pull requests](https://img.shields.io/github/issues-pr/mstksg/type-combinators-singletons?maxAge=86400)](https://github.com/mstksg/type-combinators-singletons/pulls)
+[![type-combinators-singletons last commit](https://img.shields.io/github/last-commit/mstksg/type-combinators-singletons?maxAge=86400)](https://github.com/mstksg/type-combinators-singletons/commits)
 [![type-combinators-singletons build status](https://travis-ci.org/mstksg/type-combinators-singletons.svg?branch=master)](https://travis-ci.org/mstksg/type-combinators-singletons)
 
 
@@ -499,6 +534,7 @@ Haskell
 
 [![typelits-witnesses issue tracker](https://img.shields.io/github/issues/mstksg/typelits-witnesses?maxAge=86400)](https://github.com/mstksg/typelits-witnesses/issues)
 [![typelits-witnesses pull requests](https://img.shields.io/github/issues-pr/mstksg/typelits-witnesses?maxAge=86400)](https://github.com/mstksg/typelits-witnesses/pulls)
+[![typelits-witnesses last commit](https://img.shields.io/github/last-commit/mstksg/typelits-witnesses?maxAge=86400)](https://github.com/mstksg/typelits-witnesses/commits)
 [![typelits-witnesses build status](https://travis-ci.org/mstksg/typelits-witnesses.svg?branch=master)](https://travis-ci.org/mstksg/typelits-witnesses)
 
 
@@ -510,6 +546,7 @@ Haskell
 
 [![typelits-printf issue tracker](https://img.shields.io/github/issues/mstksg/typelits-printf?maxAge=86400)](https://github.com/mstksg/typelits-printf/issues)
 [![typelits-printf pull requests](https://img.shields.io/github/issues-pr/mstksg/typelits-printf?maxAge=86400)](https://github.com/mstksg/typelits-printf/pulls)
+[![typelits-printf last commit](https://img.shields.io/github/last-commit/mstksg/typelits-printf?maxAge=86400)](https://github.com/mstksg/typelits-printf/commits)
 [![typelits-printf build status](https://travis-ci.org/mstksg/typelits-printf.svg?branch=master)](https://travis-ci.org/mstksg/typelits-printf)
 
 
@@ -526,6 +563,7 @@ Awaiting upload of patch VinylRecords/Vinyl#131 to hackage
 
 [![uncertain issue tracker](https://img.shields.io/github/issues/mstksg/uncertain?maxAge=86400)](https://github.com/mstksg/uncertain/issues)
 [![uncertain pull requests](https://img.shields.io/github/issues-pr/mstksg/uncertain?maxAge=86400)](https://github.com/mstksg/uncertain/pulls)
+[![uncertain last commit](https://img.shields.io/github/last-commit/mstksg/uncertain?maxAge=86400)](https://github.com/mstksg/uncertain/commits)
 [![uncertain build status](https://travis-ci.org/mstksg/uncertain.svg?branch=master)](https://travis-ci.org/mstksg/uncertain)
 
 
@@ -539,6 +577,7 @@ Awaiting upload of patch VinylRecords/Vinyl#131 to hackage
 
 [![wavelets issue tracker](https://img.shields.io/github/issues/mstksg/wavelets?maxAge=86400)](https://github.com/mstksg/wavelets/issues)
 [![wavelets pull requests](https://img.shields.io/github/issues-pr/mstksg/wavelets?maxAge=86400)](https://github.com/mstksg/wavelets/pulls)
+[![wavelets last commit](https://img.shields.io/github/last-commit/mstksg/wavelets?maxAge=86400)](https://github.com/mstksg/wavelets/commits)
 [![wavelets build status](https://travis-ci.org/mstksg/wavelets.svg?branch=master)](https://travis-ci.org/mstksg/wavelets)
 
 

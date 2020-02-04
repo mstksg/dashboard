@@ -31,6 +31,7 @@ in    λ(p : types.HaskellPackage)
                 )
             , [ buttons.issues-button gh
               , buttons.pr-button gh
+              , buttons.last-commit-button gh
               , buttons.travis-button gh
               ]
             ]

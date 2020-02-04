@@ -31,11 +31,14 @@ in    λ(p : types.HaskellPackage)
       let homeUrl =
             optional.default
               Text
-              (       if ../on-hackage.dhall p.status
-
-                then  ./render-hackage.dhall p.name
-
-                else  ./render-github.dhall gh
+              ( merge
+                  { Incomplete = ./render-github.dhall gh
+                  , Unpublished = ./render-github.dhall gh
+                  , Published = ./render-hackage.dhall p.name
+                  , Unmaintained = ./render-hackage.dhall p.name
+                  , Deprecated = ./render-github.dhall gh
+                  }
+                  p.status
               )
               p.homepage
 

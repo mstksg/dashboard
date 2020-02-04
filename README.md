@@ -219,7 +219,7 @@ Haskell
 * Maximum support: GHC 8.8
 
 
-### [ghcjs-websockets](https://hackage.haskell.org/package/ghcjs-websockets)
+### [ghcjs-websockets](https://github.com/mstksg/ghcjs-websockets)
 
 *Deprecated*
 
@@ -510,7 +510,7 @@ Haskell
 
 
 
-### [type-combinators-singletons](https://hackage.haskell.org/package/type-combinators-singletons)
+### [type-combinators-singletons](https://github.com/mstksg/type-combinators-singletons)
 
 *Deprecated*
 

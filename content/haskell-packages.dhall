@@ -34,7 +34,7 @@ in  [ mkPkg::{ name = "advent-of-code-api" }
       , name = "functor-products"
       , support = { min = Some GHC.GHC808, max = Some GHC.GHC808 }
       }
-    , mkPkg::{ name = "ghcjs-websockets" }
+    , mkPkg::{ name = "ghcjs-websockets", status = Status.Deprecated }
     , mkPkg::{ name = "hakyll-dhall" }
     , mkPkg::{ name = "hamilton" }
     , mkPkg::{ name = "hmatrix-backprop" }

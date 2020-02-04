@@ -221,6 +221,8 @@ Haskell
 
 ### [ghcjs-websockets](https://hackage.haskell.org/package/ghcjs-websockets)
 
+*Deprecated*
+
 [![ghcjs-websockets repository](https://img.shields.io/github/stars/mstksg/ghcjs-websockets?maxAge=86400&style=social)](https://github.com/mstksg/ghcjs-websockets)
 [![ghcjs-websockets on hackage](https://img.shields.io/hackage/v/ghcjs-websockets?maxAge=86400)](https://hackage.haskell.org/package/ghcjs-websockets)
 [![ghcjs-websockets on stackage lts](https://stackage.org/package/ghcjs-websockets/badge/lts)](https://stackage.org/lts/package/ghcjs-websockets)

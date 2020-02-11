@@ -42,7 +42,10 @@ in  [ mkPkg::{ name = "advent-of-code-api" }
     , mkPkg::{ name = "hakyll-dhall" }
     , mkPkg::{ name = "hamilton", support = { min = ghc 8 0, max = ghc 8 8 } }
     , mkPkg::{ name = "hmatrix-backprop" }
-    , mkPkg::{ name = "hmatrix-vector-sized" }
+    , mkPkg::{
+      , name = "hmatrix-vector-sized"
+      , support = { min = ghc 8 0, max = ghc 8 8 }
+      }
     , mkPkg::{
       , name = "inCode"
       , status = Status.Unpublished

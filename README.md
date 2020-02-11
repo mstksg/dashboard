@@ -294,7 +294,8 @@ Haskell
 [![hmatrix-vector-sized last commit](https://img.shields.io/github/last-commit/mstksg/hmatrix-vector-sized?maxAge=86400)](https://github.com/mstksg/hmatrix-vector-sized/commits)
 [![hmatrix-vector-sized build status](https://travis-ci.org/mstksg/hmatrix-vector-sized.svg?branch=master)](https://travis-ci.org/mstksg/hmatrix-vector-sized)
 
-
+* Minimum support: GHC 8.0
+* Maximum support: GHC 8.8
 
 
 ### [inCode](https://blog.jle.im)

@@ -379,7 +379,8 @@ Haskell
 [![mutable last commit](https://img.shields.io/github/last-commit/mstksg/mutable?maxAge=86400)](https://github.com/mstksg/mutable/commits)
 [![mutable build status](https://travis-ci.org/mstksg/mutable.svg?branch=master)](https://travis-ci.org/mstksg/mutable)
 
-
+* Minimum support: GHC 8.6
+* Maximum support: GHC 8.8
 
 
 ### [nonempty-containers](https://hackage.haskell.org/package/nonempty-containers)

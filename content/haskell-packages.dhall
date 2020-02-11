@@ -55,7 +55,11 @@ in  [ mkPkg::{ name = "advent-of-code-api" }
     , mkPkg::{ name = "jle-utils", status = Status.Unpublished }
     , mkPkg::{ name = "lens-typelevel" }
     , mkPkg::{ name = "list-witnesses" }
-    , mkPkg::{ name = "mutable", homepage = Some "https://mutable.jle.im" }
+    , mkPkg::{
+      , name = "mutable"
+      , homepage = Some "https://mutable.jle.im"
+      , support = { min = ghc 8 6, max = ghc 8 8 }
+      }
     , mkPkg::{ name = "nonempty-containers" }
     , mkPkg::{ name = "one-liner-instances" }
     , mkPkg::{ name = "opto", status = Status.Incomplete }

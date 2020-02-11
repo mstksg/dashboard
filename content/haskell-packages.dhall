@@ -1,6 +1,13 @@
 let types = ../dhall/types.dhall
 
+let helpers = ../dhall/helpers/package.dhall
+
 let GHC = types.GHCVersion
+
+let ghc =
+        λ(major : Natural)
+      → λ(minor : Natural)
+      → Some (helpers.mkGHCVersion major minor)
 
 let Status = types.Status
 
@@ -13,7 +20,7 @@ in  [ mkPkg::{ name = "advent-of-code-api" }
     , mkPkg::{
       , name = "backprop-learn"
       , status = Status.Incomplete
-      , support = { min = Some GHC.GHC808, max = Some GHC.GHC808 }
+      , support = { min = ghc 8 8, max = ghc 8 8 }
       }
     , mkPkg::{ name = "bins" }
     , mkPkg::{ name = "conduino" }
@@ -23,20 +30,17 @@ in  [ mkPkg::{ name = "advent-of-code-api" }
       , status = Status.Unpublished
       , homepage = Some "https://cv.jle.im"
       }
-    , mkPkg::{
-      , name = "decidable"
-      , support = { min = Some GHC.GHC808, max = Some GHC.GHC808 }
-      }
+    , mkPkg::{ name = "decidable", support = { min = ghc 8 8, max = ghc 8 8 } }
     , mkPkg::{ name = "data-diff", status = Status.Incomplete }
     , mkPkg::{ name = "emd" }
     , mkPkg::{ name = "functor-combinators" }
     , mkPkg::{
       , name = "functor-products"
-      , support = { min = Some GHC.GHC808, max = Some GHC.GHC808 }
+      , support = { min = ghc 8 8, max = ghc 8 8 }
       }
     , mkPkg::{ name = "ghcjs-websockets", status = Status.Deprecated }
     , mkPkg::{ name = "hakyll-dhall" }
-    , mkPkg::{ name = "hamilton" }
+    , mkPkg::{ name = "hamilton", support = { min = ghc 8 0, max = ghc 8 8 } }
     , mkPkg::{ name = "hmatrix-backprop" }
     , mkPkg::{ name = "hmatrix-vector-sized" }
     , mkPkg::{

@@ -1,1 +1,1 @@
-< GHC804 | GHC806 | GHC808 | GHC810 >
+{ major : Natural, minor : Natural }

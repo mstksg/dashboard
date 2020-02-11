@@ -263,7 +263,8 @@ Haskell
 [![hamilton last commit](https://img.shields.io/github/last-commit/mstksg/hamilton?maxAge=86400)](https://github.com/mstksg/hamilton/commits)
 [![hamilton build status](https://travis-ci.org/mstksg/hamilton.svg?branch=master)](https://travis-ci.org/mstksg/hamilton)
 
-
+* Minimum support: GHC 8.0
+* Maximum support: GHC 8.8
 
 
 ### [hmatrix-backprop](https://hackage.haskell.org/package/hmatrix-backprop)

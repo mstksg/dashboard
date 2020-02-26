@@ -545,18 +545,20 @@ Haskell
 
 
 
-### [typelits-printf](https://github.com/mstksg/typelits-printf)
+### [typelits-printf](https://hackage.haskell.org/package/typelits-printf)
 
 [![typelits-printf repository](https://img.shields.io/github/stars/mstksg/typelits-printf?maxAge=86400&style=social)](https://github.com/mstksg/typelits-printf)
+[![typelits-printf on hackage](https://img.shields.io/hackage/v/typelits-printf?maxAge=86400)](https://hackage.haskell.org/package/typelits-printf)
+[![typelits-printf on stackage lts](https://stackage.org/package/typelits-printf/badge/lts)](https://stackage.org/lts/package/typelits-printf)
+[![typelits-printf on stackage nightly](https://stackage.org/package/typelits-printf/badge/nightly)](https://stackage.org/nightly/package/typelits-printf)
 
 [![typelits-printf issue tracker](https://img.shields.io/github/issues/mstksg/typelits-printf?maxAge=86400)](https://github.com/mstksg/typelits-printf/issues)
 [![typelits-printf pull requests](https://img.shields.io/github/issues-pr/mstksg/typelits-printf?maxAge=86400)](https://github.com/mstksg/typelits-printf/pulls)
 [![typelits-printf last commit](https://img.shields.io/github/last-commit/mstksg/typelits-printf?maxAge=86400)](https://github.com/mstksg/typelits-printf/commits)
 [![typelits-printf build status](https://travis-ci.org/mstksg/typelits-printf.svg?branch=master)](https://travis-ci.org/mstksg/typelits-printf)
 
-
-
-Awaiting upload of patch VinylRecords/Vinyl#131 to hackage
+* Minimum support: GHC 8.8
+* Maximum support: GHC 8.8
 
 
 ### [uncertain](https://hackage.haskell.org/package/uncertain)

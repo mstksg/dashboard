@@ -76,9 +76,7 @@ in  [ mkPkg::{ name = "advent-of-code-api" }
     , mkPkg::{ name = "typelits-witnesses" }
     , mkPkg::{
       , name = "typelits-printf"
-      , status = Status.Unpublished
-      , notes = Some
-          "Awaiting upload of patch VinylRecords/Vinyl#131 to hackage"
+      , support = { min = ghc 8 8, max = ghc 8 8 }
       }
     , mkPkg::{ name = "uncertain" }
     , mkPkg::{ name = "wavelets", status = Status.Incomplete }

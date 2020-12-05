@@ -1,32 +1,32 @@
 let types = ../../types.dhall
 
 let text =
-      https://raw.githubusercontent.com/dhall-lang/dhall-lang/v13.0.0/Prelude/Text/package.dhall sha256:0a0ad9f649aed94c2680491efb384925b5b2bb5b353f1b8a7eb134955c1ffe45
+      https://raw.githubusercontent.com/dhall-lang/dhall-lang/v20.0.0/Prelude/Text/package.dhall sha256:46c53957c10bd4c332a5716d6e06068cd24ae1392ca171e6da31e30b9b33c07c
 
 let optional =
-      https://raw.githubusercontent.com/dhall-lang/dhall-lang/v13.0.0/Prelude/Optional/package.dhall sha256:7608f2d38dabee8bfe6865b4adc11289059984220f422d2b023b15b3908f7a4c
+      https://raw.githubusercontent.com/dhall-lang/dhall-lang/v20.0.0/Prelude/Optional/package.dhall sha256:37b84d6fe94c591d603d7b06527a2d3439ba83361e9326bc7b72517c7dc54d4e
 
 let list =
-      https://raw.githubusercontent.com/dhall-lang/dhall-lang/v13.0.0/Prelude/List/package.dhall sha256:f0fdab7ab30415c128d89424589c42a15c835338be116fa14484086e4ba118d7
+      https://raw.githubusercontent.com/dhall-lang/dhall-lang/v20.0.0/Prelude/List/package.dhall sha256:547cd881988c6c5e3673ae80491224158e93a4627690db0196cb5efbbf00d2ba
 
 let renderSupport =
-        λ(t : Text)
-      → λ(v : Optional types.GHCVersion)
-      → optional.map
+      λ(t : Text) →
+      λ(v : Optional types.GHCVersion) →
+        optional.map
           types.GHCVersion
           Text
           (λ(u : types.GHCVersion) → "* ${t}: ${./render-ghcversion.dhall u}")
           v
 
 let catMaybeSep =
-        λ(sep : Text)
-      → λ(xs : List (Optional Text))
-      → text.concatSep
+      λ(sep : Text) →
+      λ(xs : List (Optional Text)) →
+        text.concatSep
           sep
           (list.concatMap (Optional Text) Text (optional.toList Text) xs)
 
-in    λ(p : types.HaskellPackage)
-    → let gh = ../package-github.dhall p
+in  λ(p : types.HaskellPackage) →
+      let gh = ../package-github.dhall p
 
       let homeUrl =
             optional.default

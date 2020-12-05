@@ -41,6 +41,21 @@ Haskell
 
 
 
+### [advent-of-code-ocr](https://hackage.haskell.org/package/advent-of-code-ocr)
+
+[![advent-of-code-ocr repository](https://img.shields.io/github/stars/mstksg/advent-of-code-ocr?maxAge=86400&style=social)](https://github.com/mstksg/advent-of-code-ocr)
+[![advent-of-code-ocr on hackage](https://img.shields.io/hackage/v/advent-of-code-ocr?maxAge=86400)](https://hackage.haskell.org/package/advent-of-code-ocr)
+[![advent-of-code-ocr on stackage lts](https://stackage.org/package/advent-of-code-ocr/badge/lts)](https://stackage.org/lts/package/advent-of-code-ocr)
+[![advent-of-code-ocr on stackage nightly](https://stackage.org/package/advent-of-code-ocr/badge/nightly)](https://stackage.org/nightly/package/advent-of-code-ocr)
+
+[![advent-of-code-ocr issue tracker](https://img.shields.io/github/issues/mstksg/advent-of-code-ocr?maxAge=86400)](https://github.com/mstksg/advent-of-code-ocr/issues)
+[![advent-of-code-ocr pull requests](https://img.shields.io/github/issues-pr/mstksg/advent-of-code-ocr?maxAge=86400)](https://github.com/mstksg/advent-of-code-ocr/pulls)
+[![advent-of-code-ocr last commit](https://img.shields.io/github/last-commit/mstksg/advent-of-code-ocr?maxAge=86400)](https://github.com/mstksg/advent-of-code-ocr/commits)
+[![advent-of-code-ocr build status](https://travis-ci.org/mstksg/advent-of-code-ocr.svg?branch=master)](https://travis-ci.org/mstksg/advent-of-code-ocr)
+
+
+
+
 ### [auto](https://hackage.haskell.org/package/auto)
 
 [![auto repository](https://img.shields.io/github/stars/mstksg/auto?maxAge=86400&style=social)](https://github.com/mstksg/auto)

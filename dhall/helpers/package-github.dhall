@@ -1,7 +1,7 @@
 let types = ../types.dhall
 
 let optional =
-      https://raw.githubusercontent.com/dhall-lang/dhall-lang/v13.0.0/Prelude/Optional/package.dhall sha256:7608f2d38dabee8bfe6865b4adc11289059984220f422d2b023b15b3908f7a4c
+      https://raw.githubusercontent.com/dhall-lang/dhall-lang/v20.0.0/Prelude/Optional/package.dhall sha256:37b84d6fe94c591d603d7b06527a2d3439ba83361e9326bc7b72517c7dc54d4e
 
-in    λ(p : types.HaskellPackage)
-    → { repo = optional.default Text p.name p.github.repo } ∧ p.github.{ user }
+in  λ(p : types.HaskellPackage) →
+      { repo = optional.default Text p.name p.github.repo } ∧ p.github.{ user }

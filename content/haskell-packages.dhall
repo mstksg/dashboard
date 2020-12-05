@@ -5,9 +5,9 @@ let helpers = ../dhall/helpers/package.dhall
 let GHC = types.GHCVersion
 
 let ghc =
-        λ(major : Natural)
-      → λ(minor : Natural)
-      → Some (helpers.mkGHCVersion major minor)
+      λ(major : Natural) →
+      λ(minor : Natural) →
+        Some (helpers.mkGHCVersion major minor)
 
 let Status = types.Status
 
@@ -15,6 +15,7 @@ let mkPkg = (../dhall/defaults.dhall).HaskellPackage
 
 in  [ mkPkg::{ name = "advent-of-code-api" }
     , mkPkg::{ name = "advent-of-code-dev", status = Status.Unpublished }
+    , mkPkg::{ name = "advent-of-code-ocr" }
     , mkPkg::{ name = "auto" }
     , mkPkg::{ name = "backprop", homepage = Some "https://backprop.jle.im" }
     , mkPkg::{
